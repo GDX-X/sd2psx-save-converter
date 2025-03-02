@@ -1,6 +1,6 @@
 # sd2psx-save-converter
 
-This script is useful if you have a lot of saved data in `.PSU` format and use the Game ID option with your sd2psx or MemCardPRO. It allows you to convert all your `.PSU` files to `.mcd` or `.mc2` individually, each with its own Game ID.
+This script is useful if you have a lot of saved data and use the Game ID option with your sd2psx or MemCardPRO. It allows you to convert all your saves files to `.mcd` or `.mc2` individually, each with its own Game ID.
 
 ## Import Save to MCD or MC2
 
