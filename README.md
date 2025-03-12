@@ -27,6 +27,7 @@ This feature also allows you to add your memory cards from compatible games, cur
 
 Don't forget to copy the `Game2Folder.ini` file into the `.sd2psx` folder. This file contains all the game IDs of compatible games, which will automatically create the group when the game is launched.
 
+The groups will have the prefix `MCCG` for `MemoryCardsCrossGame`
 ## Export sd2psx or MemCardPRO to PSU
 
 Drop the entire `MemoryCards` folder.
