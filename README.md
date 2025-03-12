@@ -20,6 +20,13 @@ Drop your `*.mcd`, `*.mc2`, `*.bin`, and `*.ps2` files into the `MY_SAVES_PS2` f
 
 The exported files will be placed in the .???_Exported folder. The question marks represent the format of the exported card
 
+## Create Memory Cards groups for cross-game features
+Cross-Game Groups allows you to unlock bonuses in compatible games, such as Need for Speed Most Wanted, if the save data from Need for Speed Underground 2 is present. You will then start the game with an additional $10,000. [See more at](https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin/wiki/Memory-Card-Groups)
+
+This feature also allows you to add your memory cards from compatible games, currently stored in the `MemoryCards\PS2` or `PS1` folder, to memory card groups.
+
+Don't forget to copy the `Game2Folder.ini` file into the `.sd2psx` folder. This file contains all the game IDs of compatible games, which will automatically create the group when the game is launched.
+
 ## Export sd2psx or MemCardPRO to PSU
 
 Drop the entire `MemoryCards` folder.

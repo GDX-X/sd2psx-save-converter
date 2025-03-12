@@ -1,0 +1,817 @@
+SLPS_251.43 .hack//Akusei Hen'i Vol. 2
+SLPS_732.31 .hack//Akusei Hen'i Vol. 2
+SLPM_685.21 .hack//Frägment
+SLPS_255.27 .hack//Frägment
+SLPS_256.52 .hack//G.U. Terminal Disc: The End of ;The World;
+SLPS_257.56 .hack//G.U. Terminal Disc: The End of ;The World;
+SCPS_550.29 .hack//G.U. Vol. 1: Kansen Kakudai
+SLUS_212.58 .hack//G.U. Vol. 1: Rebirth
+SLUS_291.99 .hack//G.U. Vol. 1: Rebirth (Demo)
+SLUS_214.80 .hack//G.U. Vol. 1: Rebirth: Terminal Disc
+SLPS_256.51 .hack//G.U. Vol. 1: Saitan
+SLPS_257.55 .hack//G.U. Vol. 1: Saitan
+SLPS_732.59 .hack//G.U. Vol. 1: Saitan
+SCPS_550.42 .hack//G.U. Vol. 2: Akusei Hen'i
+SLPS_256.55 .hack//G.U. Vol. 2: Kimi Omou Koe
+SLPS_732.66 .hack//G.U. Vol. 2: Kimi Omou Koe
+SLUS_214.88 .hack//G.U. Vol. 2: Reminisce
+SLPS_256.56 .hack//G.U. Vol. 3: Aruku You na Hayasa de
+SLPS_732.67 .hack//G.U. Vol. 3: Aruku You na Hayasa de
+SLUS_214.89 .hack//G.U. Vol. 3: Redemption
+SCAJ_200.04 .hack//G.U. Vol. 3: Shinshoku Osen
+SCAJ_200.24 .hack//G.U. Vol. 4: Zettai Houi
+SLPS_251.21 .hack//Kansen Kakudai Vol. 1
+SLPS_732.30 .hack//Kansen Kakudai Vol. 1
+SLES_522.37 .hack//Part 1: Infection
+SLUS_202.67 .hack//Part 1: Infection
+SLES_524.67 .hack//Part 2: Mutation
+SLUS_205.62 .hack//Part 2: Mutation
+SLES_524.69 .hack//Part 3: Outbreak
+SLUS_205.63 .hack//Part 3: Outbreak
+SLES_524.68 .hack//Part 4: Quarantine
+SLUS_205.64 .hack//Part 4: Quarantine
+SLPS_251.58 .hack//Shinshoku Osen Vol. 3
+SLPS_732.32 .hack//Shinshoku Osen Vol. 3
+SLKA_250.80 .hack//Vol. 1: Infection
+SLKA_251.38 .hack//Vol. 2: Mutation
+SLKA_251.45 .hack//Vol. 3: Outbreak
+SLPS_252.02 .hack//Zettai Houi Vol. 4
+SLPS_732.33 .hack//Zettai Houi Vol. 4
+SLPM_650.02 0 Story (Disc 1)
+SLPM_650.03 0 Story (Disc 2)
+SLPM_650.86 A Visual Mix: Ayumi Hamasaki Dome Tour 2001 A (Disc 1)
+SLPM_650.87 A Visual Mix: Ayumi Hamasaki Dome Tour 2001 A (Disc 2)
+SCKA_200.42 Ace Combat 5: The Unsung War
+SLPS_254.18 Ace Combat 5: The Unsung War
+SLUS_208.51 Ace Combat 5: The Unsung War
+SCKA_200.70 Ace Combat Zero: The Belkan War
+SLPS_256.29 Ace Combat Zero: The Belkan War
+SLUS_213.46 Ace Combat Zero: The Belkan War
+SLUS_211.65 Arc the Lad: End of Darkness
+SCAJ_201.08 Arc the Lad: Generation
+SCPS_150.58 Arc the Lad: Generation
+SCAJ_200.38 Arc the Lad: Jing Ling Zhi Huang Hun
+SCAJ_200.19 Arc the Lad: Seirei no Tasogare
+SCCS_400.07 Arc the Lad: Seirei no Tasogare
+PAPX_902.30 Arc the Lad: Seirei no Tasogare: Premiere Disc
+PCPX_963.30 Arc the Lad: Seirei no Tasogare: Premiere Disc
+SCUS_972.31 Arc the Lad: Twilight of the Spirits
+SCES_519.10 Arc: Twilight of the Spirits
+SLES_500.79 Armored Core 2
+SLPS_250.07 Armored Core 2
+SLUS_200.14 Armored Core 2
+SCCS_400.11 Armored Core 2: Another Age
+SCPS_550.24 Armored Core 2: Another Age
+SLES_509.05 Armored Core 2: Another Age
+SLPS_250.40 Armored Core 2: Another Age
+SLPS_734.11 Armored Core 2: Another Age
+SLUS_202.49 Armored Core 2: Another Age
+SLES_513.99 Armored Core 3
+SLPS_251.12 Armored Core 3
+SLPS_734.17 Armored Core 3
+SLUS_204.35 Armored Core 3
+SCPS_550.14 Armored Core 3
+SLPS_251.69 Armored Core 3: Silent Line
+SLPS_734.20 Armored Core 3: Silent Line
+SCAJ_200.11 Armored Core 3: Silent Line
+SLPS_732.02 Armored Core: Nexus (Disc 1)
+SLKA_252.01 Armored Core: Nexus (Disc 1)
+SLES_820.36 Armored Core: Nexus (Disc 1) (Evolution)
+SLPS_253.38 Armored Core: Nexus (Disc 1) (Evolution)
+SLUS_209.86 Armored Core: Nexus (Disc 1) (Evolution)
+SCAJ_200.76 Armored Core: Nexus (Disc 1) (Evolution)
+SLPS_732.03 Armored Core: Nexus (Disc 2)
+SLKA_252.02 Armored Core: Nexus (Disc 2)
+SLES_820.37 Armored Core: Nexus (Disc 2) (Revolution)
+SLPS_253.39 Armored Core: Nexus (Disc 2) (Revolution)
+SLUS_210.79 Armored Core: Nexus (Disc 2) (Revolution)
+SCAJ_200.77 Armored Core: Nexus (Disc 2) (Revolution)
+SCUS_971.04 ATV Offroad Fury
+SCUS_972.11 ATV Offroad Fury 2
+SCUS_973.69 ATV Offroad Fury 2
+SLES_518.14 ATV Offroad Fury 2
+SCUS_975.10 ATV Offroad Fury 2
+SLES_537.54 ATV Offroad Fury 3
+SLUS_974.05 ATV Offroad Fury 3
+SCUS_975.14 ATV Offroad Fury 3
+SCES_502.93 ATV Offroad: All Terrain Vehicle
+SLPS_200.84 Basic Studio: Powerful Game Koubou (Disc 1) (Basic Studio Disc)
+SLPS_200.85 Basic Studio: Powerful Game Koubou (Disc 2) (Play Disc)
+SLPM_552.21 Beatmania II DX 16: Empress + Premium Best (Disc 1) (Empress Disc)
+SLPM_552.22 Beatmania II DX 16: Empress + Premium Best (Disc 2) (Premium Best Disc)
+SLES_538.86 Black
+SLES_540.30 Black
+SLPM_663.54 Black
+SLPM_667.31 Black
+SLPM_669.61 Black
+SLUS_213.76 Black
+SLAJ_250.78 Black
+SLUS_291.80 Black (Demo)
+SCPS_110.19 Bravo Music: Chou Meikyoku-ban (Genteiban)
+SLAJ_250.53 Burnout 3: Takedown
+SLES_525.84 Burnout 3: Takedown
+SLES_525.85 Burnout 3: Takedown
+SLKA_252.06 Burnout 3: Takedown
+SLPM_657.19 Burnout 3: Takedown
+SLPM_659.58 Burnout 3: Takedown
+SLPM_669.62 Burnout 3: Takedown
+SLUS_210.50 Burnout 3: Takedown
+SLAJ_250.66 Burnout Revenge
+SLES_535.06 Burnout Revenge
+SLES_535.07 Burnout Revenge
+SLKA_253.04 Burnout Revenge
+SLPM_661.08 Burnout Revenge
+SLPM_666.52 Burnout Revenge
+SLUS_212.42 Burnout Revenge
+SLPM_550.04 Burnout Revenge
+SCES_548.45 Buzz! The Hollywood Quiz
+SLES_521.18 Castlevania
+SLKA_250.82 Castlevania
+SLPM_654.44 Castlevania
+SLPM_663.25 Castlevania
+SLPM_654.06 Castlevania (Genteiban)
+SLES_537.55 Castlevania: Curse of Darkness
+SLUS_211.68 Castlevania: Curse of Darkness
+SLKA_253.28 Castlevania: Curse of Darkness
+SLUS_207.33 Castlevania: Lament of Innocence
+SLPM_655.06 Cool Girl (Disc 1) (Ice Side)
+SLPM_657.42 Cool Girl (Disc 1) (Ice Side)
+SLPM_655.04 Cool Girl (Disc 1) (Ice Side) (Genteiban)
+SLPM_655.07 Cool Girl (Disc 2) (Aska Side)
+SLPM_657.43 Cool Girl (Disc 2) (Aska Side)
+SLPM_655.05 Cool Girl (Disc 2) (Aska Side) (Genteiban)
+SLES_820.21 Cy Girls (Aska Disc)
+SLUS_206.97 Cy Girls (Disc 1) (Ice)
+SLUS_208.54 Cy Girls (Disc 2) (Aska)
+SLES_820.20 Cy Girls (Ice Disc)
+SLPM_653.58 Dance Dance Revolution Extreme
+SLPM_662.42 Dance Dance Revolution Strike
+SLPM_666.09 Dance Dance Revolution SuperNova
+SLPM_669.30 Dance Dance Revolution SuperNova 2
+SLPM_550.90 Dance Dance Revolution X
+SLPM_624.27 Dance Dance Revolution: Party Collection
+SLPM_657.75 DDR Festival: Dance Dance Revolution
+SLPM_652.77 DDRMAX2: Dance Dance Revolution 7th MIX
+SLPM_621.54 DDRMAX: Dance Dance Revolution 6th MIX
+SCKA_200.51 Degul Degul Jjondeuk Jjondeuk: Goehon
+SCCS_400.02 Devil May Cry 2 (Disc 1)
+SLES_820.11 Devil May Cry 2 (Disc 1)
+SLUS_204.84 Devil May Cry 2 (Disc 1)
+SLPM_652.32 Devil May Cry 2 (Disc 1) (Dante)
+SCCS_400.03 Devil May Cry 2 (Disc 2)
+SLES_820.12 Devil May Cry 2 (Disc 2)
+SLUS_206.27 Devil May Cry 2 (Disc 2)
+SLPM_652.33 Devil May Cry 2 (Disc 2) (Lucia)
+SLKA_252.65 Devil May Cry 3
+SLPM_658.80 Devil May Cry 3
+SLES_530.38 Devil May Cry 3: Dante's Awakening
+SLUS_209.64 Devil May Cry 3: Dante's Awakening
+SLES_541.86 Devil May Cry 3: Dante's Awakening (Special Edition)
+SLUS_213.61 Devil May Cry 3: Dante's Awakening (Special Edition)
+SLPM_661.60 Devil May Cry 3: Special Edition
+SLPM_742.42 Devil May Cry 3: Special Edition
+SLPM_742.68 Devil May Cry 3: Special Edition
+SLPM_655.97 Digital Devil Saga: Avatar Tuner
+SLPM_663.72 Digital Devil Saga: Avatar Tuner
+SCAJ_200.95 Digital Devil Saga: Avatar Tuner
+SCAJ_201.20 Digital Devil Saga: Avatar Tuner 2
+SLPM_657.95 Digital Devil Saga: Avatar Tuner 2
+SLPM_663.73 Digital Devil Saga: Avatar Tuner 2
+SLES_544.54 Disgaea 2: Cursed Memories
+SLUS_213.97 Disgaea 2: Cursed Memories
+SLES_524.58 Disgaea: Hour of Darkness
+SLUS_206.66 Disgaea: Hour of Darkness
+SLKA_251.74 Dot Hack Vol. 4: Quarantine
+SLPS_251.74 Dragon Ball Z
+SLPS_253.30 Dragon Ball Z 2
+SLPM_685.13 Dragon Ball Z 2V
+SLES_512.33 Dragon Ball Z: Budokai
+SLUS_205.91 Dragon Ball Z: Budokai
+SLES_518.39 Dragon Ball Z: Budokai 2
+SLUS_207.79 Dragon Ball Z: Budokai 2
+SLES_527.30 Dragon Ball Z: Budokai 3
+SLUS_209.98 Dragon Ball Z: Budokai 3
+SLUS_211.23 Dragon Ball Z: Budokai 3
+SLES_533.46 Dragon Ball Z: Budokai 3: Collector's Edition
+SLES_532.00 Dragon Ball Z: Budokai Tenkaichi
+SLUS_212.27 Dragon Ball Z: Budokai Tenkaichi
+SLES_541.64 Dragon Ball Z: Budokai Tenkaichi 2
+SLUS_214.41 Dragon Ball Z: Budokai Tenkaichi 2
+SLPS_255.60 Dragon Ball Z: Sparking!
+SLPS_256.90 Dragon Ball Z: Sparking! Neo
+SLES_544.60 Dragon Sisters
+SLPS_201.40 Dream Audition Super Hit Disc 1
+SLPS_201.41 Dream Audition Super Hit Disc 2
+SLES_526.38 DTM Race Driver 2
+SLES_530.88 DTM Race Driver 3
+SLES_516.61 Dynasty Warriors 4
+SLES_516.62 Dynasty Warriors 4
+SLES_516.63 Dynasty Warriors 4
+SLES_516.64 Dynasty Warriors 4
+SLES_516.65 Dynasty Warriors 4
+SLUS_206.53 Dynasty Warriors 4
+SLES_525.91 Dynasty Warriors 4: Empires
+SLES_525.92 Dynasty Warriors 4: Empires
+SLES_525.93 Dynasty Warriors 4: Empires
+SLUS_209.38 Dynasty Warriors 4: Empires
+SLES_521.71 Dynasty Warriors 4: Xtreme Legends
+SLES_521.72 Dynasty Warriors 4: Xtreme Legends
+SLES_521.73 Dynasty Warriors 4: Xtreme Legends
+SLES_521.74 Dynasty Warriors 4: Xtreme Legends
+SLES_521.75 Dynasty Warriors 4: Xtreme Legends
+SLES_533.39 Dynasty Warriors 5
+SLUS_211.53 Dynasty Warriors 5
+SLES_540.95 Dynasty Warriors 5: Empires
+SLES_540.96 Dynasty Warriors 5: Empires
+SLES_540.97 Dynasty Warriors 5: Empires
+SLUS_213.98 Dynasty Warriors 5: Empires
+SLES_538.60 Dynasty Warriors 5: Xtreme Legends
+SLES_538.61 Dynasty Warriors 5: Xtreme Legends
+SLES_538.62 Dynasty Warriors 5: Xtreme Legends
+SLUS_212.99 Dynasty Warriors 5: Xtreme Legends
+SLES_519.53 FIFA Football 2004
+SLES_519.63 FIFA Football 2004
+SLES_519.64 FIFA Football 2004
+SLES_525.59 FIFA Football 2005
+SLES_525.60 FIFA Football 2005
+SLES_525.61 FIFA Football 2005
+SLES_525.62 FIFA Football 2005
+SLES_525.63 FIFA Football 2005
+SLUS_207.50 FIFA Soccer 2004
+SLES_523.74 Fight Night 2004
+SLPM_655.87 Fight Night 2004
+SLUS_209.06 Fight Night 2004
+SCES_504.90 Final Fantasy X
+SCES_504.91 Final Fantasy X
+SCES_504.92 Final Fantasy X
+SCES_504.93 Final Fantasy X
+SCES_504.94 Final Fantasy X
+SLPM_661.24 Final Fantasy X
+SLPS_250.50 Final Fantasy X
+SLUS_203.12 Final Fantasy X
+SLPM_651.15 Final Fantasy X International
+SLPM_666.77 Final Fantasy X International
+SLPM_675.13 Final Fantasy X International
+SLPS_250.88 Final Fantasy X International
+SLKA_252.14 Final Fantasy X International
+SLES_518.15 Final Fantasy X-2
+SLES_518.16 Final Fantasy X-2
+SLES_518.17 Final Fantasy X-2
+SLES_518.18 Final Fantasy X-2
+SLES_518.19 Final Fantasy X-2
+SLKA_251.44 Final Fantasy X-2
+SLPM_661.25 Final Fantasy X-2
+SLPS_252.50 Final Fantasy X-2
+SLUS_206.72 Final Fantasy X-2
+SCAJ_250.12 Final Fantasy X-2
+SLAJ_250.12 Final Fantasy X-2
+SCAJ_200.68 Final Fantasy X-2 International + Last Mission
+SLPM_654.78 Final Fantasy X-2 International + Last Mission
+SLPM_666.78 Final Fantasy X-2 International + Last Mission
+SCUS_974.05 Genji: Dawn of the Samurai (Demo)
+SLPM_742.13 Gensou Suikoden IV
+SLPM_655.99 Gensou Suikoden IV (Genteiban)
+SLPM_656.00 Gensou Suikoden IV (Shokai Seisanban)
+SCKA_200.25 Goehon: Gulryeora! Wangjanim!
+PBPX_955.02 Gran Turismo 3: A-Spec
+PBPX_955.03 Gran Turismo 3: A-Spec
+SCPS_150.09 Gran Turismo 3: A-Spec
+SCPS_550.07 Gran Turismo 3: A-Spec
+SCPS_720.01 Gran Turismo 3: A-Spec
+SCUS_971.02 Gran Turismo 3: A-Spec
+SCUS_975.12 Gran Turismo 3: A-Spec
+PBPX_956.01 Gran Turismo 4
+SCAJ_300.06 Gran Turismo 4
+SCAJ_300.07 Gran Turismo 4
+SCES_517.19 Gran Turismo 4
+SCKA_300.01 Gran Turismo 4
+SCPS_170.01 Gran Turismo 4
+SCUS_973.28 Gran Turismo 4
+PBPX_955.23 Gran Turismo 4: Prologue
+PBPX_955.24 Gran Turismo 4: Prologue
+SCAJ_200.66 Gran Turismo 4: Prologue
+SCES_524.38 Gran Turismo 4: Prologue
+SCPS_150.55 Gran Turismo 4: Prologue
+SCPS_193.04 Gran Turismo 4: Prologue
+SCAJ_201.41 Grandia III
+SLPM_659.76 Grandia III (Disc 1)
+SLUS_213.34 Grandia III (Disc 1)
+SLPM_859.76 Grandia III (Disc 1)
+SLUS_207.58 Growlanser Generations (Disc 1) (Growlanser II: The Sense of Justice)
+SLUS_207.59 Growlanser Generations (Disc 2) (Growlanser III: The Dual Darkness)
+SLPM_622.06 Growlanser II: The Sense of Justice
+SLPS_201.05 Growlanser II: The Sense of Justice
+SLPS_201.06 Growlanser II: The Sense of Justice
+SLPM_624.40 Growlanser III: The Dual Darkness
+SLPM_669.64 Guilty Gear XX Accent Core Plus
+SLPM_669.65 Guilty Gear XX Accent Core Plus
+SLPM_663.13 GuitarFreaks V & DrumMania V
+SCAJ_200.99 Ico
+SCCS_400.05 Ico
+SCES_507.60 Ico
+SCKA_200.28 Ico
+SCPS_110.03 Ico
+SCPS_191.03 Ico
+SCPS_191.51 Ico
+SCPS_550.01 Ico
+SCPS_560.01 Ico
+SCUS_971.13 Ico
+SCED_508.44 Ico (Demo)
+SCES_524.60 Jak 3
+SCKA_200.40 Jak 3
+SCUS_973.30 Jak 3
+SCUS_975.16 Jak 3
+SCED_529.52 Jak 3 (Demo)
+SCES_503.61 Jak and Daxter: The Precursor Legacy
+SCUS_971.24 Jak and Daxter: The Precursor Legacy
+SCKA_200.10 Jak II
+SCUS_972.65 Jak II
+SCPS_150.57 Jak II: Jak x Daxter 2
+SCES_516.08 Jak II: Renegade
+SCES_532.86 Jak X
+SCPS_150.21 Jak x Daxter: Kyuu Sekai no Isan
+PAPX_902.23 Jak x Daxter: Kyuu Sekai no Isan (Taikenban)
+SCUS_974.29 Jak X: Combat Racing
+SLKA_253.39 Jin Samguk Mussang 4
+SLKA_254.17 Jin Samguk Mussang 4: Empires
+SLKA_253.40 Jin Samguk Mussang 4: Empires
+SLPM_654.12 Kaijuu Daigekisen: War of the Monsters
+SLPS_253.60 Katamari Damacy
+SLPS_732.10 Katamari Damacy
+SLPS_732.40 Katamari Damacy
+SLUS_210.08 Katamari Damacy
+SCAJ_200.79 Katamari Damacy
+PAPX_902.34 Katamari Damacy (Taikenban)
+SLAJ_250.57 Kessen III
+SLES_531.19 Kessen III
+SLES_531.20 Kessen III
+SLES_531.21 Kessen III
+SLPM_657.81 Kessen III
+SLPM_742.23 Kessen III
+SLPM_742.31 Kessen III
+KOEI_000.21 Kessen III
+SLPM_657.80 Kessen III
+SLPM_625.73 Kessen III: Enjoy Disc
+SLKA_251.35 Kunoichi
+SLPM_654.47 Kunoichi
+SLES_542.21 LEGO Star Wars II: The Original Trilogy
+SLPM_665.72 LEGO Star Wars II: The Original Trilogy
+SLUS_214.09 LEGO Star Wars II: The Original Trilogy
+SLES_531.94 LEGO Star Wars: The Video Game
+SLPS_204.23 LEGO Star Wars: The Video Game
+SLUS_210.83 LEGO Star Wars: The Video Game
+SLES_541.51 Let's Make a Soccer Team!
+SLPM_662.04 Madden NFL 06
+SLUS_212.13 Madden NFL 06
+SLES_542.48 Madden NFL 07
+SLPM_666.00 Madden NFL 07
+SLUS_214.76 Madden NFL 07
+SLUS_214.77 Madden NFL 07
+SLPM_668.37 Madden NFL 08
+SLUS_216.38 Madden NFL 08
+SLUS_217.70 Madden NFL 09
+SLUS_218.93 Madden NFL 10
+SLES_504.22 Madden NFL 2002
+SLUS_202.63 Madden NFL 2002
+SLES_511.54 Madden NFL 2003
+SLUS_205.29 Madden NFL 2003
+SLES_517.97 Madden NFL 2004
+SLUS_207.52 Madden NFL 2004
+SLES_525.81 Madden NFL 2005
+SLUS_210.00 Madden NFL 2005
+SLUS_210.25 Madden NFL 2005 (Collector's Edition)
+SLPS_250.79 Madden NFL Super Bowl 2002
+SLPS_251.57 Madden NFL Super Bowl 2003
+SLPM_658.70 Mahou Sensei Negima! 1-jikanme: Okochama Sensei wa Mahoutsukai!
+SLPM_658.71 Mahou Sensei Negima! 1-jikanme: Okochama Sensei wa Mahoutsukai!
+SLPM_662.58 Mahou Sensei Negima! 1-jikanme: Okochama Sensei wa Mahoutsukai!
+SLPM_660.62 Mahou Sensei Negima! 2-jikanme: Tatakau Otome-tachi! Mahora Daiundoukai Special!
+SLPM_660.63 Mahou Sensei Negima! 2-jikanme: Tatakau Otome-tachi! Mahora Daiundoukai Special!
+SLPM_663.29 Mahou Sensei Negima! Kagai Jugyou: Otome no Doki Doki Beachside
+SLPS_202.51 Makai Senki Disgaea
+SLPS_731.03 Makai Senki Disgaea
+SCAJ_100.01 Makai Senki Disgaea
+SLPS_202.50 Makai Senki Disgaea (Genteiban)
+SLPS_256.08 Makai Senki Disgaea 2
+SLPS_732.54 Makai Senki Disgaea 2
+SLPS_256.07 Makai Senki Disgaea 2 (Genteiban)
+SLPM_552.37 Metal Gear & Metal Gear 2: Solid Snake
+SLPM_667.95 Metal Gear & Metal Gear 2: Solid Snake
+SLPM_667.99 Metal Gear & Metal Gear 2: Solid Snake
+SLPM_742.58 Metal Gear & Metal Gear 2: Solid Snake
+SLPM_661.17 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLES_820.42 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLES_820.44 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLES_820.46 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLES_820.48 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLKA_253.53 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLPM_662.23 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLUS_213.59 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLPM_662.20 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence) (Shokai Seisanban)
+SLPM_661.18 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLES_820.43 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLES_820.45 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLES_820.47 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLES_820.49 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLKA_253.54 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLPM_662.24 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLUS_212.43 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLPM_662.21 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence) (Shokai Seisanban)
+SLPM_661.19 Metal Gear Solid 3: Subsistence (Disc 3) (Existence)
+SLES_820.50 Metal Gear Solid 3: Subsistence (Disc 3) (Existence)
+SLES_820.51 Metal Gear Solid 3: Subsistence (Disc 3) (Existence)
+SLES_820.52 Metal Gear Solid 3: Subsistence (Disc 3) (Existence)
+SLES_820.53 Metal Gear Solid 3: Subsistence (Disc 3) (Existence)
+SLUS_213.60 Metal Gear Solid 3: Subsistence (Disc 3) (Existence) (Limited Edition)
+SLPM_662.22 Metal Gear Solid 3: Subsistence (Disc 3) (Existence) (Shokai Seisanban)
+SLES_529.42 Midnight Club 3: DUB Edition
+SLUS_210.29 Midnight Club 3: DUB Edition
+SLES_537.17 Midnight Club 3: DUB Edition Remix
+SLUS_213.55 Midnight Club 3: DUB Edition Remix
+SLES_500.54 Midnight Club: Street Racing
+SLES_500.71 Midnight Club: Street Racing
+SLPS_200.68 Midnight Club: Street Racing
+SLUS_200.63 Midnight Club: Street Racing
+SLPM_621.89 Midnight Club: Street Racing
+SLPS_254.67 Minna Daisuki Katamari Damacy
+SLPS_732.41 Minna Daisuki Katamari Damacy
+SCAJ_201.35 Minna Daisuki Katamari Damacy
+SLES_527.07 Monster Hunter
+SLPM_654.95 Monster Hunter
+SLUS_208.96 Monster Hunter
+SLPM_658.69 Monster Hunter G
+SLPM_742.48 Monster Hunter G
+SLKA_252.19 Monster Hunter G
+SLUS_218.62 Naruto Shippuden: Ultimate Ninja 4
+SLES_556.05 Naruto Shippuden: Ultimate Ninja 5
+SLPS_257.68 Naruto Shippuuden: Narutimate Accel
+SLPS_258.37 Naruto Shippuuden: Narutimate Accel 2
+SLPS_252.93 Naruto: Narutimate Hero
+SLPS_732.12 Naruto: Narutimate Hero
+SLPS_253.98 Naruto: Narutimate Hero 2
+SLPS_732.21 Naruto: Narutimate Hero 2
+SLPS_255.89 Naruto: Narutimate Hero 3
+SLPS_732.51 Naruto: Narutimate Hero 3
+SLES_541.63 Naruto: Ultimate Ninja
+SLUS_213.58 Naruto: Ultimate Ninja
+SLES_548.78 Naruto: Ultimate Ninja 2
+SLUS_215.75 Naruto: Ultimate Ninja 2
+SLES_552.37 Naruto: Ultimate Ninja 3
+SLUS_217.27 Naruto: Ultimate Ninja 3
+SLUS_208.24 NASCAR Thunder 2004
+SLUS_207.54 NASCAR Thunder 2004
+SLES_513.40 NBA 2K3
+SLPM_652.69 NBA 2K3
+SLUS_204.76 NBA 2K3
+SLAJ_250.07 NBA 2K3
+SLES_520.08 NBA Live 2004
+SLPM_656.66 NBA Live 2004
+SLPS_252.97 NBA Live 2004
+SLUS_207.55 NBA Live 2004
+SLUS_205.38 NCAA College Basketball 2K3
+SLUS_204.53 NCAA College Football 2K3
+SLUS_212.14 NCAA Football 06
+SLUS_214.59 NCAA Football 07
+SLUS_217.52 NCAA Football 09
+SLUS_218.92 NCAA Football 10
+SLUS_202.41 NCAA Football 2002
+SLUS_205.30 NCAA Football 2003
+SLUS_207.19 NCAA Football 2004
+SLUS_209.91 NCAA Football 2005
+SLUS_207.71 NCAA March Madness 2004
+SLES_543.21 Need for Speed: Carbon
+SLES_543.22 Need for Speed: Carbon
+SLES_543.23 Need for Speed: Carbon
+SLES_543.24 Need for Speed: Carbon
+SLES_544.93 Need for Speed: Carbon
+SLPM_666.17 Need for Speed: Carbon
+SLPM_668.69 Need for Speed: Carbon
+SLUS_214.93 Need for Speed: Carbon
+SLAJ_250.91 Need for Speed: Carbon: Collector's Edition
+SLES_544.02 Need for Speed: Carbon: Collector's Edition
+SLES_544.92 Need for Speed: Carbon: Collector's Edition
+SLUS_214.94 Need for Speed: Carbon: Collector's Edition
+SLES_535.57 Need for Speed: Most Wanted
+SLES_535.58 Need for Speed: Most Wanted
+SLES_535.59 Need for Speed: Most Wanted
+SLPM_662.32 Need for Speed: Most Wanted
+SLPM_665.62 Need for Speed: Most Wanted
+SLUS_212.67 Need for Speed: Most Wanted
+SLES_538.57 Need for Speed: Most Wanted: Black Edition
+SLUS_213.51 Need for Speed: Most Wanted: Black Edition
+SLAJ_250.75 Need for Speed: Most Wanted: Black Edition
+SLES_550.02 Need for Speed: ProStreet
+SLPM_551.51 Need for Speed: ProStreet
+SLPM_669.32 Need for Speed: ProStreet
+SLUS_216.58 Need for Speed: ProStreet
+SLES_527.25 Need for Speed: Underground 2
+SLPM_657.66 Need for Speed: Underground 2
+SLUS_210.65 Need for Speed: Underground 2
+SLUS_291.18 Need for Speed: Underground 2 (Demo)
+SLPM_660.51 Need for Speed: Underground 2: SHA_DO
+SLPM_669.60 Need for Speed: Underground 2: SHA_DO
+SLPM_665.92 Negima!? 3-jikanme: Koi to Mahou to Sekaiju Densetsu!
+SLPM_665.93 Negima!? 3-jikanme: Koi to Mahou to Sekaiju Densetsu!
+SLPM_667.04 Negima!? Dream Tactic: Yume Miru Otome wa Princess
+SLPM_667.05 Negima!? Dream Tactic: Yume Miru Otome wa Princess
+SLES_513.39 NFL 2K3
+SLPM_652.24 NFL 2K3
+SLUS_204.57 NFL 2K3
+SLUS_214.07 NFL Head Coach
+SLES_529.82 NFL Street 2
+SLUS_211.18 NFL Street 2
+SLES_517.98 NHL 2004
+SLUS_207.56 NHL 2004
+SLUS_213.95 Nickelodeon Avatar: The Last Airbender
+SLUS_215.88 Nickelodeon Avatar: The Last Airbender: The Burning Earth
+SLES_541.88 Nickelodeon Avatar: The Legend of Aang
+SLES_548.40 Nickelodeon Avatar: The Legend of Aang: The Burning Earth
+SCKA_200.96 Nickelodeon Barnyard
+SLES_543.76 Nickelodeon Barnyard
+SLUS_212.77 Nickelodeon Barnyard
+SLES_534.94 Nickelodeon SpongeBob SquarePants: Lights, Camera, Pants!
+SLUS_212.52 Nickelodeon SpongeBob SquarePants: Lights, Camera, Pants!
+SLES_534.96 Nickelodeon SpongeBob: Ciak si Gira!
+SLES_534.18 Nickelodeon Tak: The Great Juju Challenge
+SLES_536.95 Nickelodeon Tak: The Great Juju Challenge
+SLUS_212.18 Nickelodeon Tak: The Great Juju Challenge
+SLES_536.34 Nicktoons Unite!
+SLUS_212.84 Nicktoons Unite!
+SLES_522.38 Nightshade
+SLUS_208.10 Nightshade
+SLPM_622.08 Nobunaga's Ambition Online
+SLES_519.14 Onimusha 3
+SLPM_654.13 Onimusha 3
+SLUS_206.94 Onimusha 3: Demon Siege
+SLPM_654.11 Onimusha Buraiden
+SLES_519.13 Onimusha: Blade Warriors
+SLUS_207.10 Onimusha: Blade Warriors
+SLES_820.38 Onimusha: Dawn of Dreams (Disc 1)
+SLUS_211.80 Onimusha: Dawn of Dreams (Disc 1)
+SLES_820.39 Onimusha: Dawn of Dreams (Disc 2)
+SLUS_213.62 Onimusha: Dawn of Dreams (Disc 2)
+SCPS_110.20 Otostaz (Taikenban)
+SLES_550.18 P3: Persona 3
+SLES_534.44 Panzer Elite Action: Fields of Glory
+SCKA_200.99 Persona 3
+SLPM_664.45 Persona 3
+SLES_553.54 Persona 3 FES
+SLPM_666.89 Persona 3 FES
+SLPM_837.70 Persona 3 FES
+SLES_549.13 PES 2008: Pro Evolution Soccer
+SLUS_216.85 PES 2008: Pro Evolution Soccer
+SLES_554.06 PES 2009: Pro Evolution Soccer
+SLUS_218.21 PES 2009: Pro Evolution Soccer
+SLES_555.87 PES 2010: Pro Evolution Soccer
+SLES_556.36 PES 2011: Pro Evolution Soccer
+SLES_556.56 PES 2012: Pro Evolution Soccer
+SLES_556.66 PES 2013: Pro Evolution Soccer
+SLES_556.73 PES 2014: Pro Evolution Soccer
+SLES_542.03 PES 6: Pro Evolution Soccer
+SLES_542.04 PES 6: Pro Evolution Soccer
+SLES_543.60 PES 6: Pro Evolution Soccer
+SLES_543.61 PES 6: Pro Evolution Soccer
+SLES_543.62 PES 6: Pro Evolution Soccer
+SLES_543.08 Phantasy Star Universe
+SLPM_660.31 Phantasy Star Universe
+SLPM_742.44 Phantasy Star Universe
+SLUS_211.94 Phantasy Star Universe
+SLES_548.92 Phantasy Star Universe: Ambition of the Illuminus
+SLUS_216.31 Phantasy Star Universe: Ambition of the Illuminus
+SLPM_666.63 Phantasy Star Universe: Illuminus no Yabou
+SLPM_663.14 Pop'n Music 12: Iroha
+SLES_504.12 Pro Evolution Soccer
+SLES_504.62 Pro Evolution Soccer
+SLES_511.14 Pro Evolution Soccer 2
+SLES_519.12 Pro Evolution Soccer 3
+SLES_519.15 Pro Evolution Soccer 3
+SLES_527.60 Pro Evolution Soccer 4
+SLES_528.00 Pro Evolution Soccer 4
+SLES_535.44 Pro Evolution Soccer 5
+SLES_535.45 Pro Evolution Soccer 5
+SLES_538.99 Pro Evolution Soccer Management
+PBPX_955.16 Ratchet & Clank
+SCES_509.16 Ratchet & Clank
+SCPS_150.37 Ratchet & Clank
+SCUS_971.99 Ratchet & Clank
+SCED_510.75 Ratchet & Clank (Demo)
+SCPS_150.56 Ratchet & Clank 2: Gagaga! Ginga no Commando ssu
+SCPS_193.17 Ratchet & Clank 2: Gagaga! Ginga no Commando ssu
+SCES_524.56 Ratchet & Clank 3
+SCPS_150.84 Ratchet & Clank 3: Totsugeki! Galactic Rangers
+SCPS_193.09 Ratchet & Clank 3: Totsugeki! Galactic Rangers
+SCAJ_201.09 Ratchet & Clank 3: Up Your Arsenal
+SCPS_151.00 Ratchet & Clank 4th: Giri Giri Ginga no Giga Battle
+SCPS_193.21 Ratchet & Clank 4th: Giri Giri Ginga no Giga Battle
+SCPS_193.28 Ratchet & Clank 4th: Giri Giri Ginga no Giga Battle
+SCAJ_201.57 Ratchet & Clank 4th: Giri Giri Ginga no Giga Battle
+SCPS_151.20 Ratchet & Clank 5: Gekitotsu! Dodeka Ginga no Miri Miri Gundan
+SCUS_972.68 Ratchet & Clank: Going Commando
+SCUS_975.13 Ratchet & Clank: Going Commando
+SCKA_200.11 Ratchet & Clank: Gonggu Jeonsa Daebak Moli
+SCKA_200.37 Ratchet & Clank: Gonggu Jeonsa Reloaded
+SCKA_200.60 Ratchet & Clank: Gonggu Jeonsa Wigi Ilbal
+SCUS_976.15 Ratchet & Clank: Size Matters
+SCKA_201.20 Ratchet & Clank: Size Matters
+SCUS_974.65 Ratchet: Deadlocked
+SCES_532.85 Ratchet: Gladiator
+SLES_515.89 Resident Evil: Outbreak
+SLUS_207.65 Resident Evil: Outbreak
+SLES_533.19 Resident Evil: Outbreak: File #2
+SLUS_209.84 Resident Evil: Outbreak: File #2
+SCUS_974.16 Rise of the Kasai
+SLUS_208.79 Romance of the Three Kingdoms IX
+SLUS_212.02 Romance of the Three Kingdoms X
+SLUS_215.84 Romance of the Three Kingdoms XI
+SLPM_661.68 Ryuu ga Gotoku
+SLPM_742.34 Ryuu ga Gotoku
+SLPM_742.53 Ryuu ga Gotoku
+SLPM_743.01 Ryuu ga Gotoku 2
+SLPM_666.02 Ryuu ga Gotoku 2 (Disc 1)
+SLKA_252.07 Sakura Daejeon V Episode 0: Hwangya-ui Samurai Agassi
+SLKA_350.03 Sakura Daejeon: Tteugeoun Yeoljeongeuro
+SLPM_655.15 Sakura Taisen Monogatari: Mysterious Paris
+SLAJ_250.34 Sakura Taisen Monogatari: Mysterious Paris
+SLPM_655.31 Sakura Taisen V Episode 0: Kouya no Samurai Musume
+SLPM_662.08 Sakura Taisen V Episode 0: Kouya no Samurai Musume
+SCAJ_250.45 Sakura Taisen V: Episode 0: Kouya no Samurai Musume
+SLAJ_350.01 Sakura Taisen V: Saraba Itoshiki Hito yo
+SLPM_670.03 Sakura Taisen: Atsuki Chishio ni
+SLUS_219.27 Sakura Wars: So Long, My Love (Disc 1) (English Voice Over)
+SLKA_252.66 Samgukji IX
+SLUS_208.78 Samurai Warriors
+SLES_543.40 Samurai Warriors 2
+SLUS_214.62 Samurai Warriors 2
+SLES_546.24 Samurai Warriors 2: Empires
+SLUS_215.85 Samurai Warriors 2: Empires
+SLES_551.08 Samurai Warriors 2: Xtreme Legends
+SLUS_217.26 Samurai Warriors 2: Xtreme Legends
+SLES_530.02 Samurai Warriors: Xtreme Legends
+SLES_530.03 Samurai Warriors: Xtreme Legends
+SLES_530.04 Samurai Warriors: Xtreme Legends
+SLUS_210.80 Samurai Warriors: Xtreme Legends
+SLPM_665.49 Sangokushi 11
+SLPM_667.01 Sangokushi 11 with Power-Up Kit
+SLPM_654.23 Sangokushi IX
+SLPM_661.72 Sangokushi IX
+SLPM_668.13 Sangokushi IX
+SLPM_665.23 Sangokushi IX with Power-Up Kit
+SLPM_669.71 Sangokushi IX with Power-Up Kit
+SLPM_658.91 Sangokushi X
+SLPM_665.60 Sangokushi X
+SCES_554.96 Secret Agent Clank
+SCUS_976.23 Secret Agent Clank
+SLPM_625.35 Sengoku Musou: Moushouden
+SLES_506.77 Shadow Hearts
+SLES_508.22 Shadow Hearts
+SLPS_250.41 Shadow Hearts
+SLPS_734.18 Shadow Hearts
+SLUS_203.47 Shadow Hearts
+SLES_820.30 Shadow Hearts II (Disc 1)
+SLPS_253.17 Shadow Hearts II (Disc 1) (Gentei DX Pack)
+SLES_820.31 Shadow Hearts II (Disc 2)
+SLPS_253.17 Shadow Hearts II (Disc 2) (Gentei DX Pack)
+SLPM_602.14 Shadow Hearts II (Taikenban)
+SLPM_602.26 Shadow Hearts II (Taikenban)
+SLPM_732.14 Shadow Hearts II: Director's Cut
+SLPS_732.14 Shadow Hearts II: Director's Cut (Disc 1)
+SLPS_732.14 Shadow Hearts II: Director's Cut (Disc 2)
+SLUS_210.41 Shadow Hearts: Covenant (Disc 1)
+SLUS_210.44 Shadow Hearts: Covenant (Disc 2)
+SCES_533.26 Shadow of the Colossus
+SCUS_974.72 Shadow of the Colossus
+SLES_534.58 Shin Megami Tensei: Digital Devil Saga
+SLUS_209.74 Shin Megami Tensei: Digital Devil Saga
+SLES_545.55 Shin Megami Tensei: Digital Devil Saga 2
+SLUS_211.52 Shin Megami Tensei: Digital Devil Saga 2
+SLUS_215.69 Shin Megami Tensei: Persona 3
+SLUS_216.21 Shin Megami Tensei: Persona 3 FES
+SLPM_662.75 Shin Onimusha: Dawn of Dreams (Disc 1)
+SLPM_742.32 Shin Onimusha: Dawn of Dreams (Disc 1)
+SLPM_742.51 Shin Onimusha: Dawn of Dreams (Disc 1)
+SCKA_200.86 Shin Onimusha: Dawn of Dreams (Disc 1)
+SLPM_662.76 Shin Onimusha: Dawn of Dreams (Disc 2)
+SCKA_200.87 Shin Onimusha: Dawn of Dreams (Disc 2)
+SLAJ_251.04 Shin Sangoku Musou 5 Special (Disc 1)
+SLPM_550.82 Shin Sangoku Musou 5 Special (Disc 1)
+SLPM_742.86 Shin Sangoku Musou 5 Special (Disc 1)
+SLAJ_251.05 Shin Sangoku Musou 5 Special (Disc 2)
+SLPM_550.82 Shin Sangoku Musou 5 Special (Disc 2)
+SCES_514.28 Shinobi
+SLKA_250.21 Shinobi
+SLPM_652.00 Shinobi
+SLUS_204.59 Shinobi
+SLES_503.82 Silent Hill 2
+SLPM_650.51 Silent Hill 2
+SLUS_202.28 Silent Hill 2
+SLES_511.56 Silent Hill 2: Director's Cut
+SLES_514.34 Silent Hill 3
+SLPM_652.57 Silent Hill 3
+SLPM_656.22 Silent Hill 3
+SLPM_660.18 Silent Hill 3
+SLUS_206.22 Silent Hill 3
+SLPS_204.66 Simple 2000 Series Vol. 101: The OneeChampon: The Nee-chan 2 Tokubetsu-hen
+SLPM_625.25 Simple 2000 Series Vol. 61: The OneeChambara
+SLPM_626.38 Simple 2000 Series Vol. 80: The OneeChamploo: The Nee-chan Tokubetsu-hen
+SLPS_204.41 Simple 2000 Series Vol. 87: The Nadeshiko
+SLPM_622.07 Simple 2000 Series Vol. 9: The Ren'ai Adventure: Bittersweet Fools
+SLKA_150.45 Simple 2000 Series: The Chanbara
+SLES_500.55 Smuggler's Run
+SLES_500.61 Smuggler's Run
+SLUS_200.65 Smuggler's Run
+SLES_533.50 Sonic Gems Collection
+SLPM_660.74 Sonic Gems Collection
+SLES_519.50 Sonic Heroes
+SLKA_251.22 Sonic Heroes
+SLPM_654.31 Sonic Heroes
+SLUS_207.18 Sonic Heroes
+SLES_529.98 Sonic Mega Collection Plus
+SLKA_252.33 Sonic Mega Collection Plus
+SLPM_657.58 Sonic Mega Collection Plus
+SLUS_209.17 Sonic Mega Collection Plus
+SLUS_208.06 Space Channel 5: Special Edition (Disc 1)
+SLUS_208.07 Space Channel 5: Special Edition (Disc 2)
+SCPS_550.19 Star Ocean: Till the End of Time
+SLPM_652.09 Star Ocean: Till the End of Time
+SLES_820.28 Star Ocean: Till the End of Time (Disc 1)
+SLUS_204.88 Star Ocean: Till the End of Time (Disc 1)
+SLES_820.29 Star Ocean: Till the End of Time (Disc 2)
+SLUS_208.91 Star Ocean: Till the End of Time (Disc 2)
+SLPM_654.38 Star Ocean: Till the End of Time: Director's Cut (Disc 1)
+SLPM_664.78 Star Ocean: Till the End of Time: Director's Cut (Disc 1)
+SCAJ_200.70 Star Ocean: Till the End of Time: Director's Cut (Disc 1)
+SLPM_654.38 Star Ocean: Till the End of Time: Director's Cut (Disc 2)
+SLPM_654.39 Star Ocean: Till the End of Time: Director's Cut (Disc 2)
+SLPM_664.79 Star Ocean: Till the End of Time: Director's Cut (Disc 2)
+SLPS_200.18 Stepping Selection (Disc 1)
+SLPS_200.19 Stepping Selection (Disc 2)
+SLES_529.13 Suikoden IV
+SLUS_209.79 Suikoden IV
+SLES_537.69 Suikoden Tactics
+SLUS_212.45 Suikoden Tactics
+SLPM_650.40 The Fear (Disc 1)
+SLPM_650.41 The Fear (Disc 2)
+SLPM_650.42 The Fear (Disc 3)
+SLPM_650.43 The Fear (Disc 4)
+SLUS_213.35 The Hustle: Detroit Streets
+SCUS_971.40 The Mark of Kri
+SCUS_972.01 The Mark of Kri
+SLES_518.87 Tiger Woods PGA Tour 2004
+SLUS_207.57 Tiger Woods PGA Tour 2004
+SLES_526.37 TOCA Race Driver 2
+SLUS_210.39 TOCA Race Driver 2
+SLPM_664.98 TOCA Race Driver 2: Ultimate Racing Simulator
+SLES_530.87 TOCA Race Driver 3
+SLUS_291.78 TOCA Race Driver 3 (Demo)
+SLPM_668.81 TOCA Race Driver 3: The Ultimate Racing Simulator
+SLUS_211.82 TOCA Race Driver 3: The Ultimate Racing Simulator
+SLPM_550.46 TOCA Race Driver 3: The Ultimate Racing Simulator
+SLES_520.22 Total Club Manager 2004
+SLES_526.74 Total Club Manager 2005
+SCES_503.60 Twisted Metal: Black
+SCUS_971.01 Twisted Metal: Black
+SLES_526.39 V8 Supercars Australia 2
+SLES_530.89 V8 Supercars Australia 3
+SLES_541.53 Virtua Pro Football
+SCAJ_201.46 Wang Da Yu Ju Xiang
+SCAJ_201.96 Wang Da Yu Ju Xiang
+SCES_512.24 War of the Monsters
+SCUS_971.97 War of the Monsters
+SLUS_216.62 Warriors Orochi
+SLES_548.45 Warriors Orochi
+SLUS_218.03 Warriors Orochi 2
+SLUS_212.30 We Love Katamari
+SLPM_664.42 World Football Climax
+SLPS_290.05 Xenosaga Episode I Reloaded: Der Wille zur Macht
+SLPS_290.01 Xenosaga Episode I: Der Wille zur Macht
+SLPS_290.02 Xenosaga Episode I: Der Wille zur Macht
+SLPS_739.01 Xenosaga Episode I: Der Wille zur Macht
+SLUS_204.69 Xenosaga Episode I: Der Wille zur Macht
+SCPS_559.01 Xenosaga Episode I: Der Wille zur Macht
+SCAJ_300.01 Xenosaga Episode I: Der Wille zur Macht
+SCAJ_200.86 Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)
+SLPS_253.66 Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)
+SLPS_253.68 Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)
+SLPS_732.24 Xenosaga Episode II: Jenseits von Gut und Bose (Disc 1)
+SCAJ_200.87 Xenosaga Episode II: Jenseits von Gut und Bose (Disc 2)
+SLPS_253.67 Xenosaga Episode II: Jenseits von Gut und Bose (Disc 2)
+SLPS_253.69 Xenosaga Episode II: Jenseits von Gut und Bose (Disc 2)
+SLPS_732.25 Xenosaga Episode II: Jenseits von Gut und Bose (Disc 2)
+SLUS_208.92 Xenosaga Episode II: Jenseits von Gut und Böse (Disc 1)
+SLUS_211.33 Xenosaga Episode II: Jenseits von Gut und Böse (Disc 2)
+SLPS_256.40 Xenosaga Episode III: Also sprach Zarathustra (Disc 1)
+SLUS_213.89 Xenosaga Episode III: Also sprach Zarathustra (Disc 1)
+SCAJ_201.79 Xenosaga Episode III: Also sprach Zarathustra (Disc 1)
+SLPS_256.41 Xenosaga Episode III: Also sprach Zarathustra (Disc 2)
+SLUS_214.17 Xenosaga Episode III: Also sprach Zarathustra (Disc 2)
+SCAJ_201.80 Xenosaga Episode III: Also sprach Zarathustra (Disc 2)
+SLUS_213.48 Yakuza
+SLES_552.42 Yakuza 2
+SLAJ_250.45 Yinghua Dazhan V Episode 0: Huangye de Shaonü Wushi
+SLAJ_350.03 Yinghua Dazhan: Chire Zhi Xue
+SLKA_253.42 Yonggwa Gachi
+SLKA_252.80 Yonggwa Gachi 2 (Disc 1)
+SLKA_252.81 Yonggwa Gachi 2 (Disc 2)
+SLES_545.69 Zombie Hunters 2
+SLES_533.98 Zombie Zone
+SLES_544.61 Zombie Zone: Other Side
