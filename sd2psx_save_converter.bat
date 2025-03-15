@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul 2>&1
-title sd2psx save converter By GDX v1.2
+title sd2psx save converter By GDX v1.3
 
 rmdir /Q/S "%~dp0BAT\TMP" >nul 2>&1
 if exist "%~dp0BAT\mymcplusplus.exe" (set "mymcplusplusPath=%~dp0BAT\mymcplusplus.exe") else (set mymcplusplusPath=mymcplusplus)
@@ -108,7 +108,7 @@ set MCSize=!MCSizeDefault!
 
 "%~dp0BAT\7-Zip\7z" e -bso0 "%~dp0BAT\MemoryCards.zip" -o"%~dp0BAT\TMP" "MC_!McType!_!MCSize!.mcd" -r -y >nul 2>&1
 
-if "!McType!"=="PS1" (set "extsup=mcs|psv|ps1|mcb|mcx|pda|psx") else (set "extsup=mcs|psu|psv|max|sps|xps|pws")
+if "!McType!"=="PS1" (set "extsup=mcs|psv|ps1|mcb|mcx|pda|psx") else (set "extsup=mcs|psu|psv|max|sps|xps|pws|cbs")
 "%~dp0BAT\busybox" ls -p "%~dp0MY_SAVES_!McType!" 2>&1 | "%~dp0BAT\busybox" grep -iE "(\.(!extsup!)$|^^[^^\.]+$)" | "%~dp0BAT\busybox" sed "/\//d" > "%~dp0BAT\TMP\Saveslist.txt"
 
 set /a savecount=0
@@ -120,9 +120,18 @@ set /a savecount+=1
 	set Gameid=
 	setlocal EnableDelayedExpansion
 
-	"%~dp0BAT\busybox" grep -o -m1 "[A-Z]\{6\}-[0-9]\{5\}" "!Filename!" | "%~dp0BAT\busybox" head -1 > "%~dp0BAT\TMP\gameid.txt" & set /p Gameid=<"%~dp0BAT\TMP\gameid.txt"
-	if not defined Gameid echo "!Filename!"| "%~dp0BAT\busybox" grep -oE "[A-Z]{6}-[0-9]{5}" > "%~dp0BAT\TMP\gameid.txt" & set /p Gameid=<"%~dp0BAT\TMP\gameid.txt"
-	
+	"%~dp0BAT\busybox" grep -om1 "[A-Z]\{6\}-[0-9]\{5\}" "!Filename!" | "%~dp0BAT\busybox" head -1 > "%~dp0BAT\TMP\gameid.txt" & set /p Gameid=<"%~dp0BAT\TMP\gameid.txt"
+	if not defined Gameid (
+	"%~dp0BAT\psv-converter-win" "!Filename!" | "%~dp0BAT\busybox" grep "PSV resigned successfully" | "%~dp0BAT\busybox" sed "s/.*: //" > "%~dp0BAT\TMP\PSV.txt" & set /p PSVName=<"%~dp0BAT\TMP\PSV.txt"
+		if errorlevel 1 (
+		echo\
+		echo\
+		echo !Filename! - Error, this save data cannot be imported^^!
+		) else (
+		"%~dp0BAT\busybox" grep -om1 "[A-Z]\{6\}-[0-9]\{5\}" "!PSVName!" > "%~dp0BAT\TMP\gameid.txt" & set /p Gameid=<"%~dp0BAT\TMP\gameid.txt" & del "!PSVName!" >nul 2>&1
+			)
+		)
+		
 	if not defined Gameid (
 	echo %date% - %time% - !Filename!>>"%~dp0__IGNORED-IMPORT_!McType!.txt"
 	) else (
