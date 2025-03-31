@@ -158,12 +158,12 @@ set /a savecount+=1
 
 	REM Check if config saves files exist
 	if exist "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" (
-	if "!McType!"=="PS1" ("%~dp0BAT\ps1vmc-tool" "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" -in "!Filename!") else (!mymcplusplusPath! -i "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" import "!Filename!")
+	if "!McType!"=="PS1" ("%~dp0BAT\ps1vmc-tool" "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" -in "!Filename!") else ("!mymcplusplusPath!" -i "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" import "!Filename!")
 	) else (
 	md "%~dp0MemoryCards\!McType!\!MCName!" >nul 2>&1
 	copy "%~dp0BAT\TMP\MC_!McType!_!MCSize!.mcd" "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" >nul 2>&1
 
-	if "!McType!"=="PS1" ("%~dp0BAT\ps1vmc-tool" "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" -in "!Filename!") else (!mymcplusplusPath! -i "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" import "!Filename!")
+	if "!McType!"=="PS1" ("%~dp0BAT\ps1vmc-tool" "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" -in "!Filename!") else ("!mymcplusplusPath!" -i "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" import "!Filename!")
 		)
 	)
 	endlocal
@@ -202,7 +202,7 @@ for /f "usebackq delims=" %%f in ("%~dp0BAT\TMP\FilesList.txt") do (
 	if "!McType!"=="PS1" (
 	"%~dp0BAT\ps1vmc-tool" "%~dp0MY_SAVES_!McType!\!MCName!" -ls | "%~dp0BAT\busybox" sed "s/[[:space:]]//g; 1,2d" > "%~dp0BAT\TMP\MC-Directory.txt"
 	) else (
-	!mymcplusplusPath! -i "%~dp0MY_SAVES_!McType!\!MCName!" ls | "%~dp0BAT\busybox" cut -c45-999 | "%~dp0BAT\busybox" sed "s/^/0|/g; 1,2d" > "%~dp0BAT\TMP\MC-Directory.txt"
+	"!mymcplusplusPath!" -i "%~dp0MY_SAVES_!McType!\!MCName!" ls | "%~dp0BAT\busybox" cut -c45-999 | "%~dp0BAT\busybox" sed "s/^/0|/g; 1,2d" > "%~dp0BAT\TMP\MC-Directory.txt"
 	)
 	
 	md "%~dp0MY_SAVES_!McType!\!MCFext!_Exported" >nul 2>&1
@@ -222,7 +222,7 @@ for /f "usebackq delims=" %%f in ("%~dp0BAT\TMP\FilesList.txt") do (
 	if "!McType!"=="PS1" (
 	"%~dp0BAT\ps1vmc-tool" "%~dp0MY_SAVES_!McType!\!MCName!" -x "!Slots!" "%~dp0MY_SAVES_!McType!\!MCFext!_Exported\!SaveData!"
 	) else (
-	!mymcplusplusPath! -i "%~dp0MY_SAVES_!McType!\!MCName!" export "!SaveData!" & move "!SaveData!.psu" "%~dp0MY_SAVES_!McType!\!MCFext!_Exported" >nul 2>&1
+	"!mymcplusplusPath!" -i "%~dp0MY_SAVES_!McType!\!MCName!" export "!SaveData!" & move "!SaveData!.psu" "%~dp0MY_SAVES_!McType!\!MCFext!_Exported" >nul 2>&1
 		)
 		endlocal
 	endlocal
@@ -255,7 +255,7 @@ for /d %%d in (*) do (
 	if !McType!==PS1 (
 	"%~dp0BAT\ps1vmc-tool" "!FolderMCName!\!MCName!" -ls | "%~dp0BAT\busybox" sed "s/[[:space:]]//g; 1,2d" > "%~dp0BAT\TMP\MC-Directory.txt"
 	) else (
-	!mymcplusplusPath! -i "!FolderMCName!\!MCName!" ls | "%~dp0BAT\busybox" cut -c45-999 | "%~dp0BAT\busybox" sed "s/^/0|/g; 1,2d" > "%~dp0BAT\TMP\MC-Directory.txt"
+	"!mymcplusplusPath!" -i "!FolderMCName!\!MCName!" ls | "%~dp0BAT\busybox" cut -c45-999 | "%~dp0BAT\busybox" sed "s/^/0|/g; 1,2d" > "%~dp0BAT\TMP\MC-Directory.txt"
 	)
 
 	for /f "usebackq tokens=1,2 delims=|" %%a in ("%~dp0BAT\TMP\MC-Directory.txt") do (
@@ -274,7 +274,7 @@ for /d %%d in (*) do (
 	if !McType!==PS1 (
 	"%~dp0BAT\ps1vmc-tool" "!FolderMCName!\!MCName!" -x !Slots! "%~dp0!MCM!_Exported\!McType!\!FolderMCName!\!fchannel!\!SaveData!"
 	) else (
-	!mymcplusplusPath! -i "!FolderMCName!\!MCName!" export "!SaveData!" & move "!SaveData!.psu" "%~dp0!MCM!_Exported\!McType!\!FolderMCName!\!fchannel!" >nul 2>&1
+	"!mymcplusplusPath!" -i "!FolderMCName!\!MCName!" export "!SaveData!" & move "!SaveData!.psu" "%~dp0!MCM!_Exported\!McType!\!FolderMCName!\!fchannel!" >nul 2>&1
 	)
 				endlocal
 			endlocal
@@ -330,7 +330,7 @@ for /f "usebackq delims=" %%f in ("%~dp0BAT\TMP\MClist.txt") do (
 	if "!McType!"=="PS1" (
 	"%~dp0BAT\ps1vmc-tool" "%~dp0MemoryCards\!McType!\!FMCName!\!MCName!-1.!ext!" -ls | "%~dp0BAT\busybox" sed "s/[[:space:]]//g; 1,2d" > "%~dp0BAT\TMP\MC-Directory.txt"
 	) else (
-	!mymcplusplusPath! -i "%~dp0MemoryCards\!McType!\!FMCName!\!MCName!-1.!ext!" ls | "%~dp0BAT\busybox" cut -c45-999 | "%~dp0BAT\busybox" sed "s/^/0|/g; 1,2d" > "%~dp0BAT\TMP\MC-Directory.txt"
+	"!mymcplusplusPath!" -i "%~dp0MemoryCards\!McType!\!FMCName!\!MCName!-1.!ext!" ls | "%~dp0BAT\busybox" cut -c45-999 | "%~dp0BAT\busybox" sed "s/^/0|/g; 1,2d" > "%~dp0BAT\TMP\MC-Directory.txt"
 	)
 
 	for /f "usebackq tokens=1,2 delims=|" %%a in ("%~dp0BAT\TMP\MC-Directory.txt") do (
@@ -374,8 +374,8 @@ for /f "usebackq delims=" %%f in ("%~dp0BAT\TMP\MClist.txt") do (
 	"%~dp0BAT\ps1vmc-tool" "%~dp0MemoryCards\!McType!\!FMCName!\!MCName!-1.!ext!" -x !Slots! "%~dp0BAT\TMP\!SaveData!" >nul 2>&1
 	"%~dp0BAT\ps1vmc-tool" "%~dp0MemoryCards\!McType!\!Groups!\!Groups!-1.!ext!" -in "!SaveData!"
 	) else (
-	!mymcplusplusPath! -i "%~dp0MemoryCards\!McType!\!FMCName!\!MCName!-1.!ext!" export "!SaveData!" >nul 2>&1
-	!mymcplusplusPath! -i "%~dp0MemoryCards\!McType!\!Groups!\!Groups!-1.!ext!" import "!SaveData!.psu"
+	"!mymcplusplusPath!" -i "%~dp0MemoryCards\!McType!\!FMCName!\!MCName!-1.!ext!" export "!SaveData!" >nul 2>&1
+	"!mymcplusplusPath!" -i "%~dp0MemoryCards\!McType!\!Groups!\!Groups!-1.!ext!" import "!SaveData!.psu"
 	)
 
 	del "%~dp0BAT\TMP\!SaveData!!savext!" >nul 2>&1
