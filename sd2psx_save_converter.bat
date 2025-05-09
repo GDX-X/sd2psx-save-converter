@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul 2>&1
-title sd2psx save converter By GDX v1.3
+title sd2psx save converter By GDX v1.4
 
 rmdir /Q/S "%~dp0BAT\TMP" >nul 2>&1
 if exist "%~dp0BAT\mymcplusplus.exe" (set "mymcplusplusPath=%~dp0BAT\mymcplusplus.exe") else (set mymcplusplusPath=mymcplusplus)
@@ -45,6 +45,7 @@ ECHO.
 ECHO  [2] Export Any Virtual Memory card format ^> !DFormat!
 ECHO  [3] Export !MCM! ^> !DFormat!
 ECHO  [4] Create Memory Cards groups for cross-game features
+if !McType!==PS2 ECHO  [5] Import config network
 ECHO.
 ECHO  [11] Exit
 ECHO  [12] About
@@ -58,14 +59,15 @@ if "!choice!"=="1" goto ImportSaveSD2PSX
 if "!choice!"=="2" goto ExportVMC
 if "!choice!"=="3" goto ExportSaveSD2PSX
 if "!choice!"=="4" goto MakeCardsgroups
-if "!choice!"=="5" goto ExportFolderVMC
+if !McType!==PS2 if "!choice!"=="5" goto ImportNetworkConfig
 
-
-if "!choice!"=="TEST1" mymcplusplus -i "%~dp0MemoryCards\!McType!\SLES-50288\SLES-50288-1.!ext!" ls & pause
-if "!choice!"=="TEST2" mymcplusplus -i "%~dp0MemoryCards\!McType!\SLES-50288\SLES-50288-1.!ext!" check & pause
 if "!choice!"=="11" exit
 if "!choice!"=="12" goto About
 if "!choice!"=="13" cls & goto MCMODE
+
+if "!choice!"=="TEST1" mymcplusplus -i "%~dp0MemoryCards\!McType!\SLES-50288\SLES-50288-1.mcd" ls & pause
+if "!choice!"=="TEST2" mymcplusplus -i "%~dp0MemoryCards\!McType!\SLES-51967\SLES-51967-1.mcd" ls & pause
+if "!choice!"=="TEST3" mymcplusplus -i "%~dp0MemoryCards\!McType!\SLES-50288\SLES-50288-1.mcd" check & pause
 
 (goto MainMenu)
 
@@ -103,6 +105,7 @@ if !channel!==9 goto MainMenu
 ) else (set channel=-1)
 
 if "!MCEXT!"=="MCD" (set ext=mcd) else (set ext=mc2)
+
 if "!McType!"=="PS1" (set MCSizeDefault=1MB) else (set MCSizeDefault=8MB)
 set MCSize=!MCSizeDefault!
 
@@ -131,20 +134,23 @@ set /a savecount+=1
 		"%~dp0BAT\busybox" grep -om1 "[A-Z]\{6\}-[0-9]\{5\}" "!PSVName!" > "%~dp0BAT\TMP\gameid.txt" & set /p Gameid=<"%~dp0BAT\TMP\gameid.txt" & del "!PSVName!" >nul 2>&1
 			)
 		)
-		
-	if not defined Gameid (
-	echo %date% - %time% - !Filename!>>"%~dp0__IGNORED-IMPORT_!McType!.txt"
-	) else (
+
+	if defined Gameid (
 	set SaveName=!Gameid!
 	set MCName=!Gameid:~2,10!
 
+	REM Get Game title
+	for /f "tokens=1*" %%A in ( 'findstr "!Gameid:~2,4!_!Gameid:~7,3!.!Gameid:~10,7!" "%~dp0BAT\TitlesDB_!McType!_English.txt"' ) do set TitleDB=%%B
+	
+	REM Checking Nertwork compatible game
+	if "!McType!"=="PS2" for /f "tokens=1*" %%A in ( 'findstr "!Gameid:~2,4!_!Gameid:~7,3!.!Gameid:~10,7!" "%~dp0BAT\TitlesDB_!McType!_Online.txt"' ) do set NETCNF=Yes
+	
+	REM Set region
 	if "!Gameid:~0,2!"=="BA" (set Region=America) ^
 	else if "!Gameid:~0,2!"=="BC" (set Region=China) ^
 	else if "!Gameid:~0,2!"=="BE" (set Region=Europe) ^
 	else if "!Gameid:~0,2!"=="BI" (set Region=Japan) ^
 	else if "!Gameid:~0,2!"=="BK" (set Region=Korea)
-
-	for /f "tokens=1*" %%A in ( 'findstr "!Gameid:~2,4!_!Gameid:~7,3!.!Gameid:~10,7!" "%~dp0BAT\TitlesDB_!McType!_English.txt"' ) do set TitleDB=%%B
 	
 	echo\
 	echo\
@@ -155,20 +161,89 @@ set /a savecount+=1
 	echo Region:     [!Region!]
 	echo McType:     [!McType!]
 	REM echo MCSize:       [!MCSize!]
+	REM echo NetConf:    [!NETCNF!]
 
 	REM Check if config saves files exist
 	if exist "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" (
-	if "!McType!"=="PS1" ("%~dp0BAT\ps1vmc-tool" "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" -in "!Filename!") else ("!mymcplusplusPath!" -i "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" import "!Filename!")
+		if "!McType!"=="PS1" ("%~dp0BAT\ps1vmc-tool" "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" -in "!Filename!") else ("!mymcplusplusPath!" -i "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" import "!Filename!")
 	) else (
 	md "%~dp0MemoryCards\!McType!\!MCName!" >nul 2>&1
-	copy "%~dp0BAT\TMP\MC_!McType!_!MCSize!.mcd" "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" >nul 2>&1
-
-	if "!McType!"=="PS1" ("%~dp0BAT\ps1vmc-tool" "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" -in "!Filename!") else ("!mymcplusplusPath!" -i "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" import "!Filename!")
+		copy "%~dp0BAT\TMP\MC_!McType!_!MCSize!.mcd" "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" >nul 2>&1
+			if "!McType!"=="PS1" ("%~dp0BAT\ps1vmc-tool" "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" -in "!Filename!") else ("!mymcplusplusPath!" -i "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" import "!Filename!")
+	)
+	
+	REM Import network configuration if the game is compatible with PS2 Online
+	if !NETCNF!==Yes (
+		if exist "BWNETCNF.psu" (
+			"!mymcplusplusPath!" -i "%~dp0MemoryCards\!McType!\!MCName!\!MCName!!channel!.!ext!" import "BWNETCNF.psu"
+			)
+		)
+		
+	) else (
+	if /I not "!Filename:~0,-4!"=="BWNETCNF" (
+		echo %date% - %time% - !Filename!>>"%~dp0__IGNORED-IMPORT_!McType!.txt"
 		)
 	)
 	endlocal
 endlocal
 )
+
+echo\
+echo\
+pause & goto MainMenu
+REM ######################################################################################################
+:ImportNetworkConfig
+cls
+cd /d "%~dp0MY_SAVES_!McType!"
+
+if exist "%~dp0MY_SAVES_!McType!\BWNETCNF.psu" (
+echo\
+echo Do you want to import the network configuration into the memory card of PS2 Online compatible games^?
+echo If you don't know, put: NO
+echo\
+CHOICE /C YN /M "Select Option:"
+IF !ERRORLEVEL!==1 (set NETCNF_USER=Yes) else (goto MainMenu)
+
+if "!MCEXT!"=="MCD" (set ext=mcd) else (set ext=mc2)
+cls
+echo Checking Saves Data PS2 Online compatibility...
+"%~dp0BAT\busybox" ls -p "%~dp0MemoryCards\!McType!" 2>&1 | "%~dp0BAT\busybox" grep -oE "[A-Z]{4}-[0-9]{5}" > "%~dp0BAT\TMP\MClist.txt"
+
+for /f "usebackq delims=" %%f in ("%~dp0BAT\TMP\MClist.txt") do (
+
+	setlocal DisableDelayedExpansion
+	set Gameid=%%f
+	set Groups=
+	setlocal EnableDelayedExpansion
+
+	REM Get only compatible Memory Cards
+	"%~dp0BAT\busybox" grep -o "!Gameid:~0,4!_!Gameid:~5,3!.!Gameid:~8,8!" "%~dp0BAT\TitlesDB_PS2_Online.txt" >nul 2>&1
+	
+	if !errorlevel!==1 (
+	REM echo not found
+	) else (
+	
+	REM Get groups
+	for /f "usebackq tokens=1,2 delims==" %%a in ("%~dp0BAT\Game2Folder.ini") do if /i "%%a"=="!Gameid!" set "Groups=%%b"
+	
+	REM Get Title
+	for /f "tokens=1*" %%A in ( 'findstr "!Gameid:~0,4!_!Gameid:~5,3!.!Gameid:~8,8!" "%~dp0BAT\TitlesDB_!McType!_English.txt"' ) do set TitleDB=%%B
+	
+	REM If Memory Cards Groups exist set gameid to groups
+	if exist "%~dp0MemoryCards\!McType!\!Groups!\!Groups!-1.!ext!" set Gameid=!Groups!
+	
+	echo\
+	echo\
+	echo !TitleDB!
+	echo !Gameid!
+	
+	"!mymcplusplusPath!" -i "%~dp0MemoryCards\!McType!\!Gameid!\!Gameid!-1.!ext!" import "BWNETCNF.psu"
+	)
+	endlocal
+endlocal
+	)
+) else (echo\ & echo\ & echo BWNETCNF.psu not found^^! & echo\ & echo Please put BWNETCNF.psu in MY_SAVES_!McType!)
+
 echo\
 echo\
 pause & goto MainMenu
@@ -177,13 +252,14 @@ REM ############################################################################
 cls
 cd /d "%~dp0BAT\TMP"
 
+if "!McType!"=="PS1" (
 echo\
 echo Do you want to export multiple save files located in subfolder^?
 echo Useful for POPS, for example: POPS\MyGame\SLOT0.VMC
 echo\
 CHOICE /C YN /M "Select Option:"
-IF !ERRORLEVEL!==1 goto ExportFolderVMC
-cls
+IF !ERRORLEVEL!==1 cls & goto ExportFolderVMC
+)
 
 if "!McType!"=="PS1" (
 set extsup=\.bin$^|\.ddf$^|\.gme$^|\.mc$^|\.mcd$^|\.mci$^|\.mcr$^|\.mem$^|\.ps$^|\.psm.$^|\.srm$^|\.vgs$^|\.vm1$^|\.vmp$^|\.vmc$
@@ -301,7 +377,7 @@ copy "%~dp0BAT\Game2Folder.ini" "%~dp0" >nul 2>&1
 if "!McType!"=="PS1" (set MCSizeDefault=1MB) else (set MCSizeDefault=8MB)
 
 cls
-echo Checking SavesData compatibility...
+echo Checking Saves Data compatibility...
 "%~dp0BAT\busybox" ls -p "%~dp0MemoryCards\!McType!" 2>&1 | "%~dp0BAT\busybox" grep -oE "[A-Z]{4}-[0-9]{5}" | "%~dp0BAT\busybox" sed "/MCCG/d" > "%~dp0BAT\TMP\MClist.txt"
 
 for /f "usebackq delims=" %%f in ("%~dp0BAT\TMP\MClist.txt") do (
@@ -403,8 +479,8 @@ echo ------------------------------------------
 dir /b /ad "%~dp0MY_SAVES_!McType!" 2>&1 | "%~dp0BAT\busybox" sed "/_Exported/d"
 echo ------------------------------------------
 echo\
-echo Enter the name of the folder where the subfolders containing your save data are located
-echo example: POPS
+echo Enter the name of the folder where the subfolders containing your save data are located, inside MY_SAVES_!McType!
+echo Example: POPS
 set /p "MainFolder="
 IF "!MainFolder!"=="" (goto MainMenu)
 
