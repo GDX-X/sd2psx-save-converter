@@ -1,0 +1,798 @@
+SLPM_685.21 .hack//Frägment
+SLPS_255.27 .hack//Frägment
+SLES_520.05 007: Everything or Nothing
+SLES_520.46 007: Everything or Nothing
+SLKA_251.29 007: Everything or Nothing
+SLPM_654.46 007: Everything or Nothing
+SLPM_657.25 007: Everything or Nothing
+SLPM_666.16 007: Everything or Nothing
+SLUS_207.51 007: Everything or Nothing
+SLES_522.76 187: Ride or Die
+SLKA_253.22 187: Ride or Die
+SLUS_211.16 187: Ride or Die
+SLES_531.99 25 to Life
+SLUS_210.16 25 to Life
+SCES_534.49 AFL Premiership 2005
+SLES_540.16 AND 1 Streetball
+SLUS_212.37 AND 1 Streetball
+SCUS_972.11 ATV Offroad Fury 2
+SCUS_973.69 ATV Offroad Fury 2
+SLES_518.14 ATV Offroad Fury 2
+SLES_537.54 ATV Offroad Fury 3
+SLUS_974.05 ATV Offroad Fury 3
+SCES_546.88 ATV Offroad Fury 4
+SCUS_974.79 ATV Offroad Fury 4
+SLUS_208.38 All-Star Baseball 2005 featuring Derek Jeter
+SCES_517.06 Amplitude
+SCUS_972.58 Amplitude
+SLUS_211.65 Arc the Lad: End of Darkness
+SLES_525.70 Area 51
+SLES_530.75 Area 51
+SLPM_664.68 Area 51
+SLUS_205.95 Area 51
+SLUS_213.37 Arena Football
+SLUS_215.68 Arena Football: Road to Glory
+SLES_538.20 Armored Core: Last Raven
+SLPS_254.62 Armored Core: Last Raven
+SLPS_257.30 Armored Core: Last Raven
+SLPS_732.47 Armored Core: Last Raven
+SLUS_213.38 Armored Core: Last Raven
+SLES_820.36 Armored Core: Nexus (Disc 1) (Evolution)
+SLPS_253.38 Armored Core: Nexus (Disc 1) (Evolution)
+SLUS_209.86 Armored Core: Nexus (Disc 1) (Evolution)
+SLES_820.37 Armored Core: Nexus (Disc 2) (Revolution)
+SLPS_253.39 Armored Core: Nexus (Disc 2) (Revolution)
+SLUS_210.79 Armored Core: Nexus (Disc 2) (Revolution)
+SCKA_200.47 Armored Core: Nine Breaker
+SLES_538.19 Armored Core: Nine Breaker
+SLPS_254.08 Armored Core: Nine Breaker
+SLUS_212.00 Armored Core: Nine Breaker
+SLES_511.91 Auto Modellista
+SLPM_651.24 Auto Modellista
+SLPM_651.83 Auto Modellista
+SLPM_675.40 Auto Modellista
+SLUS_206.42 Auto Modellista
+SLPM_652.86 Auto Modellista: U.S.-Tuned
+SLES_537.29 Battlefield 2: Modern Combat
+SLES_537.30 Battlefield 2: Modern Combat
+SLKA_253.30 Battlefield 2: Modern Combat
+SLPM_550.34 Battlefield 2: Modern Combat
+SLPM_662.06 Battlefield 2: Modern Combat
+SLPM_666.51 Battlefield 2: Modern Combat
+SLUS_210.26 Battlefield 2: Modern Combat
+SLPM_654.28 Biohazard: Outbreak
+SLPM_742.01 Biohazard: Outbreak
+SLUS_211.28 Blitz: The League
+SLES_536.59 Brothers in Arms: Earned in Blood
+SLUS_213.10 Brothers in Arms: Earned in Blood
+SLES_528.88 Brothers in Arms: Road to Hill 30
+SLKA_252.77 Brothers in Arms: Road to Hill 30
+SLPM_660.42 Brothers in Arms: Road to Hill 30
+SLPM_665.68 Brothers in Arms: Road to Hill 30
+SLUS_211.63 Brothers in Arms: Road to Hill 30
+SLAJ_250.53 Burnout 3: Takedown
+SLES_525.84 Burnout 3: Takedown
+SLES_525.85 Burnout 3: Takedown
+SLKA_252.06 Burnout 3: Takedown
+SLPM_657.19 Burnout 3: Takedown
+SLPM_659.58 Burnout 3: Takedown
+SLPM_669.62 Burnout 3: Takedown
+SLUS_210.50 Burnout 3: Takedown
+SLAJ_250.66 Burnout Revenge
+SLES_535.06 Burnout Revenge
+SLES_535.07 Burnout Revenge
+SLKA_253.04 Burnout Revenge
+SLPM_661.08 Burnout Revenge
+SLPM_666.52 Burnout Revenge
+SLUS_212.42 Burnout Revenge
+SLES_534.15 Call of Duty 2: Big Red One
+SLES_534.16 Call of Duty 2: Big Red One
+SLES_534.17 Call of Duty 2: Big Red One
+SLPM_663.28 Call of Duty 2: Big Red One
+SLUS_212.28 Call of Duty 2: Big Red One
+SLES_541.66 Call of Duty 3
+SLES_541.67 Call of Duty 3
+SLES_541.68 Call of Duty 3
+SLUS_214.26 Call of Duty 3
+SLES_527.82 Call of Duty: Finest Hour
+SLES_527.83 Call of Duty: Finest Hour
+SLES_527.84 Call of Duty: Finest Hour
+SLPM_661.59 Call of Duty: Finest Hour
+SLUS_207.25 Call of Duty: Finest Hour
+SLES_523.25 Champions of Norrath
+SLES_523.73 Champions of Norrath
+SLUS_205.65 Champions of Norrath
+SLES_530.39 Champions: Return to Arms
+SLUS_209.73 Champions: Return to Arms
+SLES_514.36 Chessmaster
+SLES_515.04 Chessmaster
+SLUS_206.37 Chessmaster
+SLES_529.63 Cold Winter
+SLES_530.93 Cold Winter
+SLUS_208.45 Cold Winter
+SLES_526.36 Colin McRae Rally 2005
+SLUS_212.32 College Hoops 2K6
+SLUS_214.63 College Hoops 2K7
+SLUS_216.73 College Hoops 2K8
+SLES_527.68 Commandos: Strike Force
+SLPM_664.92 Commandos: Strike Force
+SLUS_211.03 Commandos: Strike Force
+SLUS_211.72 Conflict: Global Terror
+SLES_523.39 Crash 'n' Burn
+SLUS_210.13 Crash 'n' Burn
+SLES_534.39 Crash Tag Team Racing
+SLUS_211.91 Crash Tag Team Racing
+SLUS_211.74 Dance Dance Revolution Extreme 2
+SLPM_666.09 Dance Dance Revolution SuperNova
+SLUS_213.77 Dance Dance Revolution SuperNova
+SLPM_669.30 Dance Dance Revolution SuperNova 2
+SLUS_216.08 Dance Dance Revolution SuperNova 2
+SLPM_550.90 Dance Dance Revolution X
+SLUS_217.67 Dance Dance Revolution X
+SLUS_206.26 Deer Hunter
+SLES_532.99 Delta Force: Black Hawk Down
+SLUS_211.24 Delta Force: Black Hawk Down
+SLES_541.15 Delta Force: Black Hawk Down: Team Sabre
+SLUS_214.14 Delta Force: Black Hawk Down: Team Sabre
+SCES_507.81 Destruction Derby Arenas
+SCES_519.79 Destruction Derby Arenas
+SLUS_208.55 Destruction Derby Arenas
+SCAJ_201.69 Dirge of Cerberus: Final Fantasy VII
+SLES_541.85 Dirge of Cerberus: Final Fantasy VII
+SLPM_662.71 Dirge of Cerberus: Final Fantasy VII
+SLUS_214.19 Dirge of Cerberus: Final Fantasy VII
+SLUS_207.29 ESPN College Hoops
+SLUS_209.22 ESPN College Hoops 2K5
+SLUS_207.94 ESPN Major League Baseball
+SLES_519.49 ESPN NBA Basketball
+SLUS_207.26 ESPN NBA Basketball
+SLES_529.43 ESPN NFL 2K5
+SLUS_209.19 ESPN NFL 2K5
+SLES_519.47 ESPN NFL Football
+SLUS_207.27 ESPN NFL Football
+SLES_529.66 ESPN NHL 2K5
+SLUF_209.21 ESPN NHL 2K5
+SLUS_209.21 ESPN NHL 2K5
+SLES_519.48 ESPN NHL Hockey
+SLUS_207.28 ESPN NHL Hockey
+SCES_516.48 EverQuest: Online Adventures
+SCES_517.25 EverQuest: Online Adventures
+SLUS_204.70 EverQuest: Online Adventures
+SLUS_207.44 EverQuest: Online Adventures: Frontiers
+SLPM_658.81 Exciting Pro Wres 6: WWE SmackDown! vs. Raw
+SLPM_661.87 Exciting Pro Wres 6: WWE SmackDown! vs. Raw
+SLPM_662.68 Exciting Pro Wres 7: WWE SmackDown! vs. Raw 2006
+SCES_521.54 EyeToy: Chat
+SLES_535.29 FIFA 06
+SLES_535.30 FIFA 06
+SLES_535.31 FIFA 06
+SLES_535.32 FIFA 06
+SLES_535.33 FIFA 06
+SLKA_253.23 FIFA 06
+SLAJ_250.88 FIFA 07
+SLES_542.40 FIFA 07
+SLES_542.41 FIFA 07
+SLES_542.43 FIFA 07
+SLES_542.44 FIFA 07
+SLES_542.46 FIFA 07
+SLKA_253.96 FIFA 07
+SLES_548.70 FIFA 08
+SLES_548.71 FIFA 08
+SLES_548.72 FIFA 08
+SLES_548.73 FIFA 08
+SLES_548.74 FIFA 08
+SLKA_254.08 FIFA 08
+SLES_552.43 FIFA 09
+SLES_552.44 FIFA 09
+SLES_552.45 FIFA 09
+SLES_552.46 FIFA 09
+SLES_552.47 FIFA 09
+SLKA_254.47 FIFA 09
+SLKA_250.87 FIFA Soccer 2004
+SLUS_207.50 FIFA Soccer 2004
+SLKA_252.09 FIFA Soccer 2005
+SLUS_210.51 FIFA Soccer 2005
+SLAJ_250.81 FIFA World Cup Germany 2006
+SLES_540.61 FIFA World Cup Germany 2006
+SLES_540.62 FIFA World Cup Germany 2006
+SLES_540.63 FIFA World Cup Germany 2006
+SLES_540.64 FIFA World Cup Germany 2006
+SLES_540.81 FIFA World Cup Germany 2006
+SLKA_253.78 FIFA World Cup Germany 2006
+SLPM_663.86 FIFA World Cup Germany 2006
+SLUS_214.08 FIFA World Cup Germany 2006
+SLUS_214.46 Family Feud
+SLES_527.18 Fight Club
+SLUS_208.57 Fight Club
+SLES_530.84 Fight Night Round 2
+SLKA_252.42 Fight Night Round 2
+SLPM_550.35 Fight Night Round 2
+SLPM_660.72 Fight Night Round 2
+SLUS_211.61 Fight Night Round 2
+SLES_539.82 Fight Night Round 3
+SLKA_253.73 Fight Night Round 3
+SLUS_213.83 Fight Night Round 3
+SLPM_552.98 Final Fantasy XI: Adoulin no Makyou
+SLPM_663.94 Final Fantasy XI: Aht Urhgan no Hihou
+SLPM_657.06 Final Fantasy XI: All in One Pack 2004
+SLPM_663.93 Final Fantasy XI: All in One Pack 2006
+SLPM_668.94 Final Fantasy XI: Altana no Shinpei
+SLPM_659.53 Final Fantasy XI: Entry Disc 2005
+SCUS_972.66 Final Fantasy XI: Online
+SLPS_252.00 Final Fantasy XI: Online
+SLUS_210.70 Final Fantasy XI: Online: Chains of Promathia
+SLUS_214.04 Final Fantasy XI: Online: Treasures of Aht Urhgan
+SLUS_217.04 Final Fantasy XI: Online: Vana'diel Collection 2008
+SLUS_216.94 Final Fantasy XI: Online: Wings of the Goddess Expansion Pack
+SLPM_652.89 Final Fantasy XI: PlayOnline Entry Disc
+SLPM_657.05 Final Fantasy XI: Promathia no Jubaku
+SLPM_668.93 Final Fantasy XI: Vana'diel Collection
+SLPM_652.87 Final Fantasy XI: Zilart no Gen'ei
+SLPM_652.88 Final Fantasy XI: Zilart no Gen'ei
+SLES_527.53 FlatOut
+SLES_527.54 FlatOut
+SLUS_209.01 FlatOut
+SLES_540.02 FlatOut 2
+SLES_540.03 FlatOut 2
+SLKA_254.01 FlatOut 2
+SLUS_212.51 FlatOut 2
+SLES_536.98 Ford vs. Chevy
+SLUS_212.76 Ford vs. Chevy
+SCCS_400.19 Formula One 04
+SCES_520.42 Formula One 04
+SCPS_150.83 Formula One 04
+SCES_530.33 Formula One 05
+SCPS_150.98 Formula One 05
+SLES_533.14 Frankie Dettori Racing
+SCES_507.91 Frequency
+SCUS_971.25 Frequency
+SLPM_659.81 Front Mission Online
+SLES_531.14 Full Spectrum Warrior
+SLES_531.31 Full Spectrum Warrior
+SLKA_252.64 Full Spectrum Warrior
+SLPM_662.63 Full Spectrum Warrior
+SLUS_211.45 Full Spectrum Warrior
+SLES_536.56 Full Spectrum Warrior: Ten Hammers
+SLES_539.09 Full Spectrum Warrior: Ten Hammers
+SLKA_253.68 Full Spectrum Warrior: Ten Hammers
+SLUS_212.50 Full Spectrum Warrior: Ten Hammers
+SLES_536.67 Gauntlet: Seven Sorrows
+SLUS_210.77 Gauntlet: Seven Sorrows
+SLES_527.66 Godzilla: Save the Earth
+SLUS_208.09 Godzilla: Save the Earth
+SLES_529.74 GoldenEye: Rogue Agent
+SLES_529.76 GoldenEye: Rogue Agent
+SLUS_210.64 GoldenEye: Rogue Agent
+PBPX_956.01 Gran Turismo 4
+SCAJ_300.06 Gran Turismo 4
+SCAJ_300.07 Gran Turismo 4
+SCAJ_300.08 Gran Turismo 4
+SCES_517.19 Gran Turismo 4
+SCKA_300.01 Gran Turismo 4
+SCKA_300.04 Gran Turismo 4
+SCPS_170.01 Gran Turismo 4
+SCPS_192.52 Gran Turismo 4
+SCUS_906.82 Gran Turismo 4
+SCUS_973.28 Gran Turismo 4
+SCUS_975.63 Gran Turismo 4
+PAPX_905.23 Gran Turismo 4: Online Test Version
+SLUS_215.39 Greg Hastings' Tournament Paintball Max'd
+SCUS_974.66 Gretzky NHL 06
+SCUS_974.09 Gretzky NHL 2005
+SCES_515.93 Hardware: Online Arena
+SCES_519.77 Hardware: Online Arena
+SLES_534.41 Heroes of the Pacific
+SLUS_209.43 Heroes of the Pacific
+SCUS_974.01 Hot Shots Golf Fore!
+SLES_524.81 Hot Wheels: Stunt Track Challenge
+SLUS_209.54 Hot Wheels: Stunt Track Challenge
+SLES_522.98 IndyCar Series 2005
+SCUS_974.29 Jak X: Combat Racing
+SCUS_975.74 Jak X: Combat Racing
+SLES_530.44 Juiced
+SLES_531.51 Juiced
+SLKA_252.83 Juiced
+SLUS_208.72 Juiced
+SLES_548.34 Juiced 2: Hot Import Nights
+SLES_550.78 Juiced 2: Hot Import Nights
+SLUS_215.93 Juiced 2: Hot Import Nights
+SLKA_254.06 KOF: Maximum Impact Regulation ;A;
+SLPS_257.65 KOF: Maximum Impact Regulation ;A;
+SLPS_259.38 KOF: Maximum Impact Regulation ;A;
+SCES_520.04 Killzone
+SCES_528.93 Killzone
+SCKA_200.48 Killzone
+SCUS_974.02 Killzone
+SLPM_661.51 Killzone
+SLES_526.93 LMA Manager 2005
+SLES_531.49 LMA Manager 2005
+SLES_534.71 LMA Manager 2006
+SLES_542.25 LMA Manager 2007
+SCES_541.45 Lemmings
+SCKA_200.71 MLB 06: The Show
+SCUS_975.00 MLB 06: The Show
+SCKA_200.91 MLB 07: The Show
+SCUS_975.56 MLB 07: The Show
+SCUS_975.83 MLB 08: The Show
+SCUS_976.44 MLB 09: The Show
+SCUS_973.26 MLB 2005
+SCUS_973.47 MLB 2006
+SLUS_208.89 MLB SlugFest: Loaded
+SLES_522.89 MTX Mototrax
+SLES_522.90 MTX Mototrax
+SLUS_203.99 MTX Mototrax
+SLUS_213.67 MVP 06 NCAA Baseball
+SLUS_215.82 MVP 07 NCAA Baseball
+SLKA_251.48 MVP Baseball 2004
+SLUS_208.68 MVP Baseball 2004
+SLKA_252.78 MVP Baseball 2005
+SLPM_660.44 MVP Baseball 2005
+SLPM_664.64 MVP Baseball 2005
+SLUS_211.35 MVP Baseball 2005
+SLES_531.06 MX vs. ATV Unleashed
+SLKA_252.82 MX vs. ATV Unleashed
+SLUS_211.04 MX vs. ATV Unleashed
+SLES_550.50 MX vs. ATV Untamed
+SLUS_217.01 MX vs. ATV Untamed
+SLES_535.10 Madden NFL 06
+SLPM_662.04 Madden NFL 06
+SLUS_212.13 Madden NFL 06
+SLES_542.48 Madden NFL 07
+SLPM_666.00 Madden NFL 07
+SLUS_214.76 Madden NFL 07
+SLUS_214.77 Madden NFL 07
+SLES_548.12 Madden NFL 08
+SLPM_668.37 Madden NFL 08
+SLUS_216.38 Madden NFL 08
+SLES_552.38 Madden NFL 09
+SLUS_217.70 Madden NFL 09
+SLUS_218.93 Madden NFL 10
+SLES_517.97 Madden NFL 2004
+SLKA_250.95 Madden NFL 2004
+SLUS_207.52 Madden NFL 2004
+SLES_525.81 Madden NFL 2005
+SLUS_210.00 Madden NFL 2005
+SLUS_219.29 Major League Baseball 2K10
+SLUS_219.45 Major League Baseball 2K11
+SLUS_219.51 Major League Baseball 2K12
+SLUS_210.35 Major League Baseball 2K5
+SLPM_664.51 Major League Baseball 2K6
+SLUS_212.35 Major League Baseball 2K6
+SLPM_668.29 Major League Baseball 2K7
+SLUS_215.61 Major League Baseball 2K7
+SLPM_551.09 Major League Baseball 2K8
+SLUS_217.29 Major League Baseball 2K8
+SLPS_259.30 Major League Baseball 2K9
+SLUS_218.71 Major League Baseball 2K9
+SLES_526.98 Manchester United Manager 2005
+SLES_535.85 Marvel Nemesis: Rise of the Imperfects
+SLKA_253.11 Marvel Nemesis: Rise of the Imperfects
+SLUS_212.81 Marvel Nemesis: Rise of the Imperfects
+SLES_541.23 Marvel: Ultimate Alliance
+SLUS_213.74 Marvel: Ultimate Alliance
+SLAJ_250.30 Medal of Honor: Rising Sun
+SLES_518.73 Medal of Honor: Rising Sun
+SLES_518.75 Medal of Honor: Rising Sun
+SLES_518.76 Medal of Honor: Rising Sun
+SLKA_251.40 Medal of Honor: Rising Sun
+SLPM_550.02 Medal of Honor: Rising Sun
+SLPM_654.69 Medal of Honor: Rising Sun
+SLPM_657.57 Medal of Honor: Rising Sun
+SLUS_207.53 Medal of Honor: Rising Sun
+SLES_820.42 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLES_820.44 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLES_820.46 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLES_820.48 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLKA_253.53 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLPM_552.36 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLPM_662.23 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLPM_667.94 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLPM_667.98 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLPM_742.57 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLUS_213.59 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence)
+SLPM_662.20 Metal Gear Solid 3: Subsistence (Disc 1) (Subsistence) (Shokai Seisanban)
+SLES_820.43 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLES_820.45 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLES_820.47 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLES_820.49 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLKA_253.54 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLPM_662.24 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLUS_212.43 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)
+SLPM_662.21 Metal Gear Solid 3: Subsistence (Disc 2) (Persistence) (Shokai Seisanban)
+SLES_820.50 Metal Gear Solid 3: Subsistence (Disc 3) (Existence)
+SLES_820.51 Metal Gear Solid 3: Subsistence (Disc 3) (Existence)
+SLES_820.52 Metal Gear Solid 3: Subsistence (Disc 3) (Existence)
+SLES_820.53 Metal Gear Solid 3: Subsistence (Disc 3) (Existence)
+SLKA_253.55 Metal Gear Solid 3: Subsistence (Disc 3) (Existence)
+SLUS_213.60 Metal Gear Solid 3: Subsistence (Disc 3) (Existence) (Limited Edition)
+SLPM_662.22 Metal Gear Solid 3: Subsistence (Disc 3) (Existence) (Shokai Seisanban)
+SLES_537.17 Midnight Club 3: DUB Edition Remix
+SLUS_213.55 Midnight Club 3: DUB Edition Remix
+SLES_510.54 Midnight Club II
+SLUS_202.09 Midnight Club II
+SLES_527.07 Monster Hunter
+SLPM_654.95 Monster Hunter
+SLUS_208.96 Monster Hunter
+SLPM_662.80 Monster Hunter 2
+SLPM_742.45 Monster Hunter 2
+SLPM_658.69 Monster Hunter G
+SLPM_742.48 Monster Hunter G
+SLES_541.56 Mortal Kombat: Armageddon
+SLUS_214.10 Mortal Kombat: Armageddon
+SLUS_215.43 Mortal Kombat: Armageddon
+SLES_527.05 Mortal Kombat: Deception
+SLES_527.06 Mortal Kombat: Deception
+SLUS_208.81 Mortal Kombat: Deception
+SCES_528.92 MotoGP 4
+SLPS_255.61 MotoGP 4
+SLUS_211.59 MotoGP 4
+SCED_516.77 My Street
+SCES_516.77 My Street
+SCUS_972.12 My Street
+SLES_536.35 NASCAR 06: Total Team Control
+SLUS_212.66 NASCAR 06: Total Team Control
+SLES_542.23 NASCAR 07
+SLUS_214.61 NASCAR 07
+SLES_548.13 NASCAR 08
+SLUS_216.39 NASCAR 08
+SLES_551.99 NASCAR 09
+SLUS_217.44 NASCAR 09
+SLUS_210.03 NASCAR 2005: Chase for the Cup
+SLUS_208.24 NASCAR Thunder 2004
+SCUS_973.48 NBA 06
+SCUS_975.44 NBA 07 featuring the Life Vol. 2
+SCES_549.24 NBA 08
+SLES_555.76 NBA 2K10
+SLUS_219.08 NBA 2K10
+SLES_556.45 NBA 2K11
+SLUS_219.36 NBA 2K11
+SLES_556.59 NBA 2K12
+SLUS_219.50 NBA 2K12
+SLES_548.80 NBA 2K8
+SLUS_216.69 NBA 2K8
+SLES_552.53 NBA 2K9
+SLPS_259.24 NBA 2K9
+SLUS_217.45 NBA 2K9
+SLES_526.28 NBA Ballers
+SLUS_205.41 NBA Ballers
+SLUS_211.86 NBA Ballers: Phenom
+SLES_535.46 NBA Live 06
+SLES_535.47 NBA Live 06
+SLES_535.80 NBA Live 06
+SLES_535.81 NBA Live 06
+SLKA_253.15 NBA Live 06
+SLPM_661.71 NBA Live 06
+SLPM_665.61 NBA Live 06
+SLUS_212.79 NBA Live 06
+SLES_542.50 NBA Live 07
+SLES_542.51 NBA Live 07
+SLES_542.52 NBA Live 07
+SLKA_253.95 NBA Live 07
+SLPM_665.89 NBA Live 07
+SLPM_669.46 NBA Live 07
+SLUS_214.60 NBA Live 07
+SLAJ_250.99 NBA Live 08
+SLES_548.95 NBA Live 08
+SLES_548.96 NBA Live 08
+SLES_549.33 NBA Live 08
+SLKA_254.04 NBA Live 08
+SLPM_551.44 NBA Live 08
+SLPM_668.84 NBA Live 08
+SLUS_216.49 NBA Live 08
+SLES_511.98 NBA Live 2003
+SLPM_675.41 NBA Live 2003
+SLPS_251.68 NBA Live 2003
+SLUS_205.36 NBA Live 2003
+SLES_520.08 NBA Live 2004
+SLKA_250.86 NBA Live 2004
+SLPM_656.66 NBA Live 2004
+SLPS_252.97 NBA Live 2004
+SLUS_207.55 NBA Live 2004
+SLES_527.13 NBA Live 2005
+SLES_527.26 NBA Live 2005
+SLES_527.27 NBA Live 2005
+SLKA_251.10 NBA Live 2005
+SLPM_657.87 NBA Live 2005
+SLPM_661.16 NBA Live 2005
+SLUS_210.58 NBA Live 2005
+SCUS_973.18 NBA ShootOut 2004
+SLES_530.01 NBA Street V3
+SLKA_251.34 NBA Street V3
+SLPM_660.21 NBA Street V3
+SLUS_211.26 NBA Street V3
+SLES_514.81 NBA Street Vol. 2
+SLKA_250.27 NBA Street Vol. 2
+SLUS_206.51 NBA Street Vol. 2
+SLUS_205.38 NCAA College Basketball 2K3
+SCUS_972.78 NCAA Final Four 2004
+SLUS_212.14 NCAA Football 06
+SLUS_214.59 NCAA Football 07
+SLUS_216.20 NCAA Football 08
+SLUS_217.52 NCAA Football 09
+SLUS_218.92 NCAA Football 10
+SLUS_219.32 NCAA Football 11
+SLUS_207.19 NCAA Football 2004
+SLUS_209.91 NCAA Football 2005
+SCUS_972.77 NCAA GameBreaker 2004
+SLUS_212.98 NCAA March Madness 06
+SLUS_214.81 NCAA March Madness 07
+SLUS_216.98 NCAA March Madness 08
+SLUS_207.71 NCAA March Madness 2004
+SLUS_211.00 NCAA March Madness 2005
+SLES_513.39 NFL 2K3
+SLPM_652.24 NFL 2K3
+SLUS_204.57 NFL 2K3
+SLUS_206.31 NFL Blitz Pro
+SCUS_971.94 NFL GameDay 2003
+SCUS_972.76 NFL GameDay 2004
+SLUS_214.07 NFL Head Coach
+SLES_520.25 NFL Street
+SLUS_208.41 NFL Street
+SLES_529.82 NFL Street 2
+SLUS_211.18 NFL Street 2
+SLES_543.79 NFL Street 3
+SLUS_214.82 NFL Street 3
+SLES_534.33 NHL 06
+SLES_534.63 NHL 06
+SLPM_665.10 NHL 06
+SLUS_212.41 NHL 06
+SLES_542.45 NHL 07
+SLUS_214.58 NHL 07
+SLES_548.93 NHL 08
+SLES_551.74 NHL 08
+SLUS_216.47 NHL 08
+SLES_553.38 NHL 09
+SLES_553.39 NHL 09
+SLUS_217.71 NHL 09
+SKUS_207.56 NHL 2004
+SLES_517.98 NHL 2004
+SLUS_207.56 NHL 2004
+SLES_526.73 NHL 2005
+SLUS_210.01 NHL 2005
+SLES_536.86 NHL 2K6
+SLUS_212.34 NHL 2K6
+SLES_542.11 NHL 2K7
+SLUS_214.25 NHL 2K7
+SLES_518.40 NHL Hitz Pro
+SLUS_206.91 NHL Hitz Pro
+SLES_535.57 Need for Speed: Most Wanted
+SLES_535.58 Need for Speed: Most Wanted
+SLES_535.59 Need for Speed: Most Wanted
+SLKA_253.34 Need for Speed: Most Wanted
+SLPM_662.32 Need for Speed: Most Wanted
+SLPM_665.62 Need for Speed: Most Wanted
+SLUS_212.67 Need for Speed: Most Wanted
+SLES_519.67 Need for Speed: Underground
+SLKA_251.36 Need for Speed: Underground
+SLKA_251.92 Need for Speed: Underground
+SLKA_905.03 Need for Speed: Underground
+SLPM_654.71 Need for Speed: Underground
+SLUS_208.11 Need for Speed: Underground
+SLES_527.25 Need for Speed: Underground 2
+SLKA_252.41 Need for Speed: Underground 2
+SLPM_657.66 Need for Speed: Underground 2
+SLUS_210.65 Need for Speed: Underground 2
+SLES_539.98 OutRun 2006: Coast 2 Coast
+SLUS_212.74 OutRun 2006: Coast 2 Coast
+SLES_529.65 Outlaw Golf 2
+SLUS_210.30 Outlaw Golf 2
+SLES_534.90 Outlaw Tennis
+SLUS_211.90 Outlaw Tennis
+SLES_531.38 Outlaw Volleyball Remixed
+SLUS_210.49 Outlaw Volleyball Remixed
+SLES_549.13 PES 2008: Pro Evolution Soccer
+SLES_549.14 PES 2008: Pro Evolution Soccer
+SLES_550.21 PES 2008: Pro Evolution Soccer
+SLUS_216.85 PES 2008: Pro Evolution Soccer
+SLES_555.87 PES 2010: Pro Evolution Soccer
+SLES_555.88 PES 2010: Pro Evolution Soccer
+SLES_555.89 PES 2010: Pro Evolution Soccer
+SLUS_219.18 PES 2010: Pro Evolution Soccer
+SLES_556.56 PES 2012: Pro Evolution Soccer
+SLES_556.57 PES 2012: Pro Evolution Soccer
+SLES_556.58 PES 2012: Pro Evolution Soccer
+SLUS_219.48 PES 2012: Pro Evolution Soccer
+SLES_542.03 PES 6: Pro Evolution Soccer
+SLES_542.04 PES 6: Pro Evolution Soccer
+SLES_543.60 PES 6: Pro Evolution Soccer
+SLES_543.61 PES 6: Pro Evolution Soccer
+SLES_543.62 PES 6: Pro Evolution Soccer
+SLES_543.08 Phantasy Star Universe
+SLPM_660.31 Phantasy Star Universe
+SLPM_742.44 Phantasy Star Universe
+SLUS_211.94 Phantasy Star Universe
+SLES_548.92 Phantasy Star Universe: Ambition of the Illuminus
+SLUS_216.31 Phantasy Star Universe: Ambition of the Illuminus
+SCUS_972.69 PlayOnline Viewer and Tetra Master
+SLES_527.73 Pool Shark 2
+SLES_535.44 Pro Evolution Soccer 5
+SLES_535.45 Pro Evolution Soccer 5
+SLES_528.59 Project: Snowblind
+SLES_531.24 Project: Snowblind
+SLUS_210.37 Project: Snowblind
+SCUS_973.53 Ratchet & Clank: Up Your Arsenal
+SCUS_974.65 Ratchet: Deadlocked
+SLES_515.89 Resident Evil: Outbreak
+SLUS_207.65 Resident Evil: Outbreak
+SLES_533.19 Resident Evil: Outbreak: File #2
+SLUS_209.84 Resident Evil: Outbreak: File #2
+SLES_516.60 Risk: Global Domination
+SLUS_203.90 Risk: Global Domination
+SLES_529.44 Robotech: Invasion
+SLUS_208.23 Robotech: Invasion
+SLES_529.21 Rogue Trooper
+SLUS_213.20 Rogue Trooper
+SLES_529.19 Rugby League 2
+SLES_529.40 S.L.A.I.: Steel Lancer Arena International
+SLPM_657.91 S.L.A.I.: Steel Lancer Arena International
+SLUS_209.69 S.L.A.I.: Steel Lancer Arena International
+SCES_533.00 SOCOM 3: U.S. Navy SEALs
+SCKA_200.64 SOCOM 3: U.S. Navy SEALs
+SCUS_974.74 SOCOM 3: U.S. Navy SEALs
+SCES_519.04 SOCOM II: U.S. Navy SEALs
+SCES_523.06 SOCOM II: U.S. Navy SEALs
+SCKA_200.20 SOCOM II: U.S. Navy SEALs
+SCKA_200.53 SOCOM II: U.S. Navy SEALs
+SCPS_150.65 SOCOM II: U.S. Navy SEALs
+SCUS_972.75 SOCOM II: U.S. Navy SEALs
+SCES_509.28 SOCOM: U.S. Navy SEALs
+SCES_516.18 SOCOM: U.S. Navy SEALs
+SCKA_200.07 SOCOM: U.S. Navy SEALs
+SCKA_200.13 SOCOM: U.S. Navy SEALs
+SCKA_240.08 SOCOM: U.S. Navy SEALs
+SCKA_900.10 SOCOM: U.S. Navy SEALs
+SCPS_150.44 SOCOM: U.S. Navy SEALs
+SCUS_971.34 SOCOM: U.S. Navy SEALs
+SCUS_972.30 SOCOM: U.S. Navy SEALs
+SCES_544.77 SOCOM: U.S. Navy SEALs: Combined Assault
+SCUS_975.45 SOCOM: U.S. Navy SEALs: Combined Assault
+SLES_530.45 SRS: Street Racing Syndicate
+SLUS_205.82 SRS: Street Racing Syndicate
+SLES_516.97 SSX 3
+SLKA_251.18 SSX 3
+SLKA_252.00 SSX 3
+SLKA_905.02 SSX 3
+SLPM_550.77 SSX 3
+SLPM_654.49 SSX 3
+SLPM_657.93 SSX 3
+SLUS_207.72 SSX 3
+SLPM_627.67 Sega Ages 2500 Series Vol. 31: Dennou Senki: Virtual On
+SLPM_624.43 Sega Ages 2500 Series Vol. 8: Virtua Racing: FlatOut
+SLES_524.50 Serious Sam: Next Encounter
+SLUS_209.07 Serious Sam: Next Encounter
+SLES_518.20 Sniper Elite
+SLES_537.58 Sniper Elite
+SLUS_212.31 Sniper Elite
+SLES_541.57 SnoCross 2 featuring Blair Morgan
+SLUS_211.30 SnoCross 2 featuring Blair Morgan
+SLES_530.78 Spy vs. Spy
+SLES_525.45 Star Wars: Battlefront
+SLES_525.46 Star Wars: Battlefront
+SLES_525.47 Star Wars: Battlefront
+SLPM_656.87 Star Wars: Battlefront
+SLPM_661.48 Star Wars: Battlefront
+SLUS_208.98 Star Wars: Battlefront
+SLES_535.01 Star Wars: Battlefront II
+SLES_535.02 Star Wars: Battlefront II
+SLES_535.03 Star Wars: Battlefront II
+SLPM_661.90 Star Wars: Battlefront II
+SLUS_212.40 Star Wars: Battlefront II
+SCES_520.33 Syphon Filter: The Omega Strain
+SCKA_200.32 Syphon Filter: The Omega Strain
+SCUS_972.64 Syphon Filter: The Omega Strain
+SLES_526.37 TOCA Race Driver 2
+SLUS_210.39 TOCA Race Driver 2
+SLES_530.87 TOCA Race Driver 3
+SLES_537.53 Test Drive Unlimited
+SLES_544.66 Test Drive Unlimited
+SLUS_214.90 Test Drive Unlimited
+SLUS_216.23 The Bigs
+SLES_544.83 The Fast and the Furious
+SLUS_214.49 The Fast and the Furious
+SLUS_213.35 The Hustle: Detroit Streets
+SLES_528.98 The King of Fighters: Maximum Impact
+SLES_542.55 The King of Fighters: Maximum Impact 2
+SLAJ_250.28 The Sims: Bustin' Out
+SLES_520.47 The Sims: Bustin' Out
+SLES_520.48 The Sims: Bustin' Out
+SLKA_251.37 The Sims: Bustin' Out
+SLUS_208.42 The Sims: Bustin' Out
+SLES_508.77 TimeSplitters 2
+SLKA_250.20 TimeSplitters 2
+SLUS_203.14 TimeSplitters 2
+SLES_529.93 TimeSplitters: Future Perfect
+SLUS_211.48 TimeSplitters: Future Perfect
+SLES_531.04 Tom Clancy's Rainbow Six: Lockdown
+SLUS_211.44 Tom Clancy's Rainbow Six: Lockdown
+SLES_530.07 Tom Clancy's Splinter Cell: Chaos Theory
+SLES_532.87 Tom Clancy's Splinter Cell: Chaos Theory
+SLPM_661.30 Tom Clancy's Splinter Cell: Chaos Theory
+SLUS_211.37 Tom Clancy's Splinter Cell: Chaos Theory
+SLES_538.26 Tom Clancy's Splinter Cell: Double Agent
+SLES_538.27 Tom Clancy's Splinter Cell: Double Agent
+SLUS_213.56 Tom Clancy's Splinter Cell: Double Agent
+SLES_521.49 Tom Clancy's Splinter Cell: Pandora Tomorrow
+SLKA_251.80 Tom Clancy's Splinter Cell: Pandora Tomorrow
+SLPM_658.15 Tom Clancy's Splinter Cell: Pandora Tomorrow
+SLUS_209.58 Tom Clancy's Splinter Cell: Pandora Tomorrow
+SLES_535.34 Tony Hawk's American Wasteland
+SLES_535.35 Tony Hawk's American Wasteland
+SLUS_212.08 Tony Hawk's American Wasteland
+SLES_504.35 Tony Hawk's Pro Skater 3
+SLES_504.36 Tony Hawk's Pro Skater 3
+SLES_504.37 Tony Hawk's Pro Skater 3
+SLPM_651.90 Tony Hawk's Pro Skater 3
+SLUS_200.13 Tony Hawk's Pro Skater 3
+SLES_511.30 Tony Hawk's Pro Skater 4
+SLES_511.31 Tony Hawk's Pro Skater 4
+SLES_511.32 Tony Hawk's Pro Skater 4
+SLUS_205.04 Tony Hawk's Pro Skater 4
+SLES_518.48 Tony Hawk's Underground
+SLES_518.51 Tony Hawk's Underground
+SLES_518.52 Tony Hawk's Underground
+SLES_518.53 Tony Hawk's Underground
+SLES_518.54 Tony Hawk's Underground
+SLUS_207.31 Tony Hawk's Underground
+SLES_526.21 Tony Hawk's Underground 2
+SLES_526.22 Tony Hawk's Underground 2
+SLUS_209.65 Tony Hawk's Underground 2
+SLES_531.75 Top Spin
+SLUS_212.22 Top Spin
+SLUS_201.49 Tribes: Aerial Assault
+SLES_525.04 Trivial Pursuit: Unhinged
+SLES_525.44 Trivial Pursuit: Unhinged
+SLUS_207.91 Trivial Pursuit: Unhinged
+SCES_514.80 Twisted Metal: Black Online
+SCUS_971.96 Twisted Metal: Black Online
+SLES_529.09 UEFA Champions League 2004-2005
+SLES_529.10 UEFA Champions League 2004-2005
+SLES_529.11 UEFA Champions League 2004-2005
+SLES_529.12 UEFA Champions League 2004-2005
+SLES_545.11 UEFA Champions League 2006-2007
+SLES_545.12 UEFA Champions League 2006-2007
+SLES_545.13 UEFA Champions League 2006-2007
+SLKA_252.56 UEFA Champions League 2006-2007
+SLUS_215.81 UEFA Champions League 2006-2007
+SLUS_213.90 Urban Chaos: Riot Response
+SCES_523.89 WRC 4: The Official Game of the FIA World Rally Championship
+SLPM_659.75 WRC 4: The Official Game of the FIA World Rally Championship
+SCES_532.47 WRC: Rally Evolved
+SLES_544.88 WWE SmackDown vs. Raw 2007
+SLES_544.89 WWE SmackDown vs. Raw 2007
+SLKA_251.68 WWE SmackDown vs. Raw 2007
+SLPM_666.27 WWE SmackDown vs. Raw 2007
+SLUS_214.27 WWE SmackDown vs. Raw 2007
+SLES_527.81 WWE SmackDown! vs. Raw
+SLKA_252.44 WWE SmackDown! vs. Raw
+SLUS_210.60 WWE SmackDown! vs. Raw
+SLES_536.76 WWE SmackDown! vs. Raw 2006
+SLES_536.77 WWE SmackDown! vs. Raw 2006
+SLKA_253.18 WWE SmackDown! vs. Raw 2006
+SLUS_212.86 WWE SmackDown! vs. Raw 2006
+SLES_509.58 Warhammer 40,000: Fire Warrior
+SLUS_205.97 Warhammer 40,000: Fire Warrior
+SLUS_213.40 World Championship Cards
+SLUS_214.57 World Championship Paintball
+SLES_531.30 World Championship Poker
+SLUS_210.28 World Championship Poker
+SLES_539.95 World Championship Poker 2 featuring Howard Lederer
+SLUS_211.76 World Championship Poker 2 featuring Howard Lederer
+SLES_545.47 World Championship Poker featuring Howard Lederer: All In
+SLUS_214.12 World Championship Poker featuring Howard Lederer: All In
+SLES_524.83 World Championship Pool 2004
+SLUS_207.60 World Championship Pool 2004
+SLES_523.86 World Championship Snooker 2004
+SLES_536.89 World Poker Tour
+SLUS_213.33 World Poker Tour
+SLES_537.24 World Series of Poker
+SLUS_213.01 World Series of Poker
+SLES_549.61 World Series of Poker 2008: Battle for the Bracelets
+SLUS_216.86 World Series of Poker 2008: Battle for the Bracelets
+SLES_544.48 World Series of Poker: Tournament of Champions: 2007 Edition
+SLUS_214.91 World Series of Poker: Tournament of Champions: 2007 Edition
+SLES_530.82 World Snooker Championship 2005
+SLES_533.74 X-Men Legends II: Rise of Apocalypse
+SLES_533.77 X-Men Legends II: Rise of Apocalypse
+SLUS_211.38 X-Men Legends II: Rise of Apocalypse
+SLES_512.44 XIII
+SLUS_206.77 XIII
